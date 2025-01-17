@@ -1,4 +1,4 @@
-[![mas](https://ciphercore.de/mas.svg)](https://ciphercore.de/mas.svg)
+[![mas](https://ciphercore.de/nmas.svg)](https://ciphercore.de/nmas.svg)
 # Multi-Agent System mit Deep Reinforcement Learning für Dynamische Umgebungen
 
 Dieses KI-System kombiniert Multi-Agent-Systeme, Deep Reinforcement Learning und die Fähigkeit, in dynamischen Umgebungen zu operieren. Dieses Modell ist in der Lage, komplexe Aufgaben durch kooperative Strategien und adaptive Lernprozesse zu bewältigen.
