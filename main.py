@@ -552,7 +552,7 @@ class DDQNAgent:
         Args:
             filepath (str): Der Pfad zur Ladedatei.
         """
-        checkpoint = torch.load(filepath)
+        checkpoint = torch.load(filepath, weights_only=True)
         self.q_network.load_state_dict(checkpoint['model_state_dict'])
         self.optimizer.load_state_dict(checkpoint['optimizer_state_dict'])
         self.target_network.load_state_dict(self.q_network.state_dict())
@@ -820,11 +820,20 @@ pygame.display.set_caption("RL Training")
 clock = pygame.time.Clock()
 
 # Trainingsloop
+# Trainingsloop
 env = Environment(size=GRID_COLS, resources={1: 0.1, 2: 0.1, 3: 0.1, 4: 0.05, 6: 0.05}, num_agents=NUM_AGENTS)
 state_dim = STATE_DIM
 action_dim = NUM_ACTIONS
 agents = [DDQNAgent(state_dim, action_dim) for _ in range(NUM_AGENTS)]
-num_episodes = 5000
+
+# Laden des zuletzt gespeicherten Modells zu Beginn des Trainings
+for i, agent in enumerate(agents):
+    model_path = f"model_agent_{i}.pth"
+    if os.path.exists(model_path):
+        agent.load(model_path)
+        print(f"Loaded model for agent {i} from {model_path}")
+
+num_episodes = 5001
 running = True
 for episode in range(num_episodes):
     print(f"---Episode {episode}---")
@@ -869,9 +878,10 @@ for episode in range(num_episodes):
         print(f"Agent {i}: Total reward: {episode_rewards[i]:.2f}, Average Loss: {avg_loss:.4f}, LR: {agents[i].learning_rate:.6f}")
         agents[i].save_best_model(episode_rewards[i])
 
+    # Regelmäßiges Speichern des aktuellen Modells
     if episode % 100 == 0 and episode > 0:
         for i, agent in enumerate(agents):
-            agent.save(f"model_agent_{i}_episode_{episode}.pth")
+            agent.save(f"model_agent_{i}.pth")
         print(f"Model at episode {episode} saved successfully")
 
     if episode % 1000 == 0 and episode > 0:
