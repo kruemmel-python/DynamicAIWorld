@@ -92,5 +92,16 @@ Für weiterführende Analysen wird empfohlen, die Daten **regelmäßig zu überp
 - **Hypereparameter-Optimierung:** Feintuning der Trainingsparameter, um die Leistung weiter zu optimieren.
 - **Validierung:** Durchführung von Validierungstests, um die Generalisierungsfähigkeit des Modells zu prüfen.
 
-## Die Analysediagramme ind in der PDF zu finden.
+![trend_average_loss_agent_3](https://github.com/user-attachments/assets/2f79898a-d71d-47e7-88f2-22f7ad5eac48)
+![trend_average_loss_agent_2](https://github.com/user-attachments/assets/640d1592-3ff9-46e9-88c3-a23b4e26583c)
+![trend_average_loss_agent_1](https://github.com/user-attachments/assets/efdb4275-77b4-4f96-8bfb-197579a50d18)
+![trend_average_loss_agent_0](https://github.com/user-attachments/assets/3fae6302-3b7b-4ec2-be2a-d925cc61c627)
+![total_rewards](https://github.com/user-attachments/assets/406099cf-1d96-4a71-ae9f-2cfffb36a33d)
+![learning_rate](https://github.com/user-attachments/assets/657d2e08-501e-4bee-8965-6d2660ebfcb5)
+![average_loss](https://github.com/user-attachments/assets/96b00476-a8be-4ef7-bbc9-65ab245bb10c)
+![trend_total_reward_agent_3](https://github.com/user-attachments/assets/86caa3c0-1970-4a61-93bf-0205cc8b18cf)
+![trend_total_reward_agent_2](https://github.com/user-attachments/assets/602fb32e-0b71-4c17-8999-8b01cf110ab0)
+![trend_total_reward_agent_1](https://github.com/user-attachments/assets/3cb5136f-0d94-4436-b2af-0f8a967cd485)
+![trend_total_reward_agent_0](https://github.com/user-attachments/assets/22bb88ee-6473-4a78-95c9-7bf771799ba6)
+
 
