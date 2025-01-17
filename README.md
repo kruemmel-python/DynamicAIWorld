@@ -1,4 +1,5 @@
-[![mas](https://ciphercore.de/mas.svg)](https://github.com/kruemmel-python/DynamicAIWorld/tree/main)
+[![mas](https://ciphercore.de/2mas.svg)](https://github.com/kruemmel-python/DynamicAIWorld/tree/main)
+
 
 
 # DynamicAIWorld
