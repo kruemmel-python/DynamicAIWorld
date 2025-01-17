@@ -12,9 +12,13 @@ import logging
 
 # -------------------- KONSTANTEN --------------------
 # Konstanten für die Größe des Gitters und des Fensters
-GRID_SIZE = 20
+GRID_COLS = 20
+GRID_ROWS = 20
 WINDOW_WIDTH = 600
 WINDOW_HEIGHT = 600
+
+# Berechnung der Gitterzellengröße
+GRID_SIZE = min(WINDOW_WIDTH // GRID_COLS, WINDOW_HEIGHT // GRID_ROWS)
 
 # Farben für die Agenten
 AGENT_COLORS = [(255, 0, 0), (0, 255, 0), (0, 0, 255), (255, 255, 0)]
@@ -737,6 +741,8 @@ class Environment:
 
         return all_next_states, all_rewards, all_dones
 
+
+
     def _communicate(self, agent_index):
         """
         Lässt den Agenten mit anderen Agenten kommunizieren.
@@ -814,7 +820,7 @@ pygame.display.set_caption("RL Training")
 clock = pygame.time.Clock()
 
 # Trainingsloop
-env = Environment(size=GRID_SIZE, resources={1: 0.1, 2: 0.1, 3: 0.1, 4: 0.05, 6: 0.05}, num_agents=NUM_AGENTS)
+env = Environment(size=GRID_COLS, resources={1: 0.1, 2: 0.1, 3: 0.1, 4: 0.05, 6: 0.05}, num_agents=NUM_AGENTS)
 state_dim = STATE_DIM
 action_dim = NUM_ACTIONS
 agents = [DDQNAgent(state_dim, action_dim) for _ in range(NUM_AGENTS)]
@@ -872,7 +878,7 @@ for episode in range(num_episodes):
         print(f"Starting evaluation at episode {episode} ...")
         for agent in agents:
             agent.eval_mode()
-        test_env = Environment(size=GRID_SIZE, resources={1: 0.1, 2: 0.1, 3: 0.1, 4: 0.05, 6: 0.05}, num_agents=NUM_AGENTS)
+        test_env = Environment(size=GRID_COLS, resources={1: 0.1, 2: 0.1, 3: 0.1, 4: 0.05, 6: 0.05}, num_agents=NUM_AGENTS)
         test_rewards = [0 for _ in range(NUM_AGENTS)]
         test_dones = [False for _ in range(NUM_AGENTS)]
         test_states = [test_env.get_state(i) for i in range(NUM_AGENTS)]
