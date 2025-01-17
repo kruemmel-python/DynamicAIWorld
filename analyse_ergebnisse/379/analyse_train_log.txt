@@ -1,0 +1,1924 @@
+(base) PS G:\AI_NPC\test> python tiefsee.py
+pygame 2.6.1 (SDL 2.28.4, Python 3.12.7)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+---Episode 0---
+Agent 0: Total reward: 639.00, Average Loss: 117.6379, LR: 0.000248
+Best model updated, new reward 639.0000000000014
+Agent 1: Total reward: 640.00, Average Loss: 91.1661, LR: 0.000248
+Best model updated, new reward 640.0000000000013
+Agent 2: Total reward: 1004.00, Average Loss: 80.4659, LR: 0.000248
+Best model updated, new reward 1004.0000000000026
+Agent 3: Total reward: 3.00, Average Loss: 41.2470, LR: 0.000248
+Best model updated, new reward 3.0000000000001363
+---Episode 1---
+Agent 0: Total reward: 1166.00, Average Loss: 90.8353, LR: 0.000246
+Best model updated, new reward 1166.0000000000005
+Agent 1: Total reward: 1169.00, Average Loss: 76.4543, LR: 0.000246
+Best model updated, new reward 1169.0000000000007
+Agent 2: Total reward: 1166.00, Average Loss: 65.2999, LR: 0.000246
+Best model updated, new reward 1166.0000000000005
+Agent 3: Total reward: 1051.00, Average Loss: 26.9817, LR: 0.000246
+Best model updated, new reward 1051.0000000000025
+---Episode 2---
+Agent 0: Total reward: 1165.00, Average Loss: 86.0425, LR: 0.000244
+Agent 1: Total reward: 1156.00, Average Loss: 83.6705, LR: 0.000244
+Agent 2: Total reward: 1148.00, Average Loss: 62.5520, LR: 0.000244
+Agent 3: Total reward: 1168.00, Average Loss: 40.9449, LR: 0.000244
+Best model updated, new reward 1168.0000000000007
+---Episode 3---
+Agent 0: Total reward: 1153.00, Average Loss: 80.6435, LR: 0.000242
+Agent 1: Total reward: 1148.00, Average Loss: 66.8719, LR: 0.000242
+Agent 2: Total reward: 1152.00, Average Loss: 48.2115, LR: 0.000242
+Agent 3: Total reward: 1163.00, Average Loss: 46.0486, LR: 0.000242
+---Episode 4---
+Agent 0: Total reward: 1146.00, Average Loss: 70.6409, LR: 0.000240
+Agent 1: Total reward: 1144.00, Average Loss: 60.0713, LR: 0.000240
+Agent 2: Total reward: 1139.00, Average Loss: 48.6567, LR: 0.000240
+Agent 3: Total reward: 1170.00, Average Loss: 41.4693, LR: 0.000240
+Best model updated, new reward 1170.0000000000007
+---Episode 5---
+Agent 0: Total reward: 1123.00, Average Loss: 71.7544, LR: 0.000238
+Agent 1: Total reward: 1166.00, Average Loss: 52.8747, LR: 0.000238
+Agent 2: Total reward: 1118.00, Average Loss: 51.4086, LR: 0.000238
+Agent 3: Total reward: 1167.00, Average Loss: 49.4586, LR: 0.000238
+---Episode 6---
+Agent 0: Total reward: 1131.00, Average Loss: 52.7961, LR: 0.000236
+Agent 1: Total reward: 1146.00, Average Loss: 49.0715, LR: 0.000236
+Agent 2: Total reward: 1157.00, Average Loss: 51.0605, LR: 0.000236
+Agent 3: Total reward: 1141.00, Average Loss: 41.9891, LR: 0.000236
+---Episode 7---
+Agent 0: Total reward: 1135.00, Average Loss: 66.9705, LR: 0.000234
+Agent 1: Total reward: 1150.00, Average Loss: 62.4319, LR: 0.000234
+Agent 2: Total reward: 1153.00, Average Loss: 43.7567, LR: 0.000234
+Agent 3: Total reward: 1131.00, Average Loss: 38.3558, LR: 0.000234
+---Episode 8---
+Agent 0: Total reward: 1143.00, Average Loss: 48.3449, LR: 0.000232
+Agent 1: Total reward: 1114.00, Average Loss: 54.2998, LR: 0.000232
+Agent 2: Total reward: 1152.00, Average Loss: 48.4265, LR: 0.000232
+Agent 3: Total reward: 1123.00, Average Loss: 42.1338, LR: 0.000232
+---Episode 9---
+Agent 0: Total reward: 1134.00, Average Loss: 59.3958, LR: 0.000230
+Agent 1: Total reward: 1166.00, Average Loss: 51.6647, LR: 0.000230
+Agent 2: Total reward: 1156.00, Average Loss: 38.2832, LR: 0.000230
+Agent 3: Total reward: 1144.00, Average Loss: 31.1885, LR: 0.000230
+---Episode 10---
+Agent 0: Total reward: 1149.00, Average Loss: 68.3819, LR: 0.000228
+Agent 1: Total reward: 1170.00, Average Loss: 57.2691, LR: 0.000228
+Best model updated, new reward 1170.0000000000007
+Agent 2: Total reward: 1163.00, Average Loss: 52.9011, LR: 0.000228
+Agent 3: Total reward: 1114.00, Average Loss: 31.0326, LR: 0.000228
+---Episode 11---
+Agent 0: Total reward: 1152.00, Average Loss: 62.0897, LR: 0.000226
+Agent 1: Total reward: 1144.00, Average Loss: 55.5113, LR: 0.000226
+Agent 2: Total reward: 1169.00, Average Loss: 38.2851, LR: 0.000226
+Best model updated, new reward 1169.0000000000007
+Agent 3: Total reward: 1134.00, Average Loss: 34.8243, LR: 0.000226
+---Episode 12---
+Agent 0: Total reward: 1148.00, Average Loss: 58.4466, LR: 0.000224
+Agent 1: Total reward: 1143.00, Average Loss: 46.1520, LR: 0.000224
+Agent 2: Total reward: 1159.00, Average Loss: 30.7010, LR: 0.000224
+Agent 3: Total reward: 1109.00, Average Loss: 39.7435, LR: 0.000224
+---Episode 13---
+Agent 0: Total reward: 1150.00, Average Loss: 63.0323, LR: 0.000222
+Agent 1: Total reward: 1148.00, Average Loss: 52.6381, LR: 0.000222
+Agent 2: Total reward: 1153.00, Average Loss: 32.3756, LR: 0.000222
+Agent 3: Total reward: 1133.00, Average Loss: 38.1115, LR: 0.000222
+---Episode 14---
+Agent 0: Total reward: 1149.00, Average Loss: 56.1278, LR: 0.000220
+Agent 1: Total reward: 1122.00, Average Loss: 47.4201, LR: 0.000220
+Agent 2: Total reward: 1135.00, Average Loss: 35.2236, LR: 0.000220
+Agent 3: Total reward: 1126.00, Average Loss: 32.9711, LR: 0.000220
+---Episode 15---
+Agent 0: Total reward: 1161.00, Average Loss: 58.3934, LR: 0.000218
+Agent 1: Total reward: 1120.00, Average Loss: 41.0762, LR: 0.000218
+Agent 2: Total reward: 1171.00, Average Loss: 41.6725, LR: 0.000218
+Best model updated, new reward 1171.0000000000005
+Agent 3: Total reward: 1107.00, Average Loss: 29.5893, LR: 0.000218
+---Episode 16---
+Agent 0: Total reward: 1159.00, Average Loss: 53.9199, LR: 0.000216
+Agent 1: Total reward: 1034.00, Average Loss: 44.1005, LR: 0.000216
+Agent 2: Total reward: 1165.00, Average Loss: 43.6753, LR: 0.000216
+Agent 3: Total reward: 1088.00, Average Loss: 34.1677, LR: 0.000216
+---Episode 17---
+Agent 0: Total reward: 1141.00, Average Loss: 58.7290, LR: 0.000214
+Agent 1: Total reward: 1007.00, Average Loss: 47.5675, LR: 0.000214
+Agent 2: Total reward: 1158.00, Average Loss: 30.5431, LR: 0.000214
+Agent 3: Total reward: 1133.00, Average Loss: 34.1332, LR: 0.000214
+---Episode 18---
+Agent 0: Total reward: 1143.00, Average Loss: 55.0811, LR: 0.000212
+Agent 1: Total reward: 1141.00, Average Loss: 42.4979, LR: 0.000212
+Agent 2: Total reward: 1152.00, Average Loss: 41.1597, LR: 0.000212
+Agent 3: Total reward: 1119.00, Average Loss: 29.6268, LR: 0.000212
+---Episode 19---
+Agent 0: Total reward: 1117.00, Average Loss: 53.7439, LR: 0.000210
+Agent 1: Total reward: 1047.00, Average Loss: 49.6257, LR: 0.000210
+Agent 2: Total reward: 1126.00, Average Loss: 38.0877, LR: 0.000210
+Agent 3: Total reward: 1152.00, Average Loss: 44.5050, LR: 0.000210
+---Episode 20---
+Agent 0: Total reward: 1132.00, Average Loss: 60.9999, LR: 0.000208
+Agent 1: Total reward: 1072.00, Average Loss: 49.8311, LR: 0.000208
+Agent 2: Total reward: 1156.00, Average Loss: 37.7781, LR: 0.000208
+Agent 3: Total reward: 1157.00, Average Loss: 34.8005, LR: 0.000208
+---Episode 21---
+Agent 0: Total reward: 1121.00, Average Loss: 45.9737, LR: 0.000206
+Agent 1: Total reward: 1078.00, Average Loss: 47.5714, LR: 0.000206
+Agent 2: Total reward: 1162.00, Average Loss: 32.4833, LR: 0.000206
+Agent 3: Total reward: 1110.00, Average Loss: 34.8073, LR: 0.000206
+---Episode 22---
+Agent 0: Total reward: 1144.00, Average Loss: 53.4673, LR: 0.000204
+Agent 1: Total reward: 1127.00, Average Loss: 51.7118, LR: 0.000204
+Agent 2: Total reward: 1163.00, Average Loss: 39.9800, LR: 0.000204
+Agent 3: Total reward: 826.15, Average Loss: 35.2274, LR: 0.000204
+---Episode 23---
+Agent 0: Total reward: 1051.00, Average Loss: 52.2853, LR: 0.000202
+Agent 1: Total reward: 1143.00, Average Loss: 44.8796, LR: 0.000202
+Agent 2: Total reward: 1170.00, Average Loss: 31.6102, LR: 0.000202
+Agent 3: Total reward: 925.00, Average Loss: 35.0613, LR: 0.000202
+---Episode 24---
+Agent 0: Total reward: 1132.00, Average Loss: 58.1787, LR: 0.000200
+Agent 1: Total reward: 1165.00, Average Loss: 47.3177, LR: 0.000200
+Agent 2: Total reward: 1164.00, Average Loss: 34.9383, LR: 0.000200
+Agent 3: Total reward: 1008.00, Average Loss: 24.1876, LR: 0.000200
+---Episode 25---
+Agent 0: Total reward: 1140.00, Average Loss: 58.0219, LR: 0.000198
+Agent 1: Total reward: 1078.00, Average Loss: 43.8876, LR: 0.000198
+Agent 2: Total reward: 1160.00, Average Loss: 36.5765, LR: 0.000198
+Agent 3: Total reward: 1066.00, Average Loss: 31.3204, LR: 0.000198
+---Episode 26---
+Agent 0: Total reward: 1093.00, Average Loss: 53.4440, LR: 0.000196
+Agent 1: Total reward: 1068.00, Average Loss: 46.7790, LR: 0.000196
+Agent 2: Total reward: 1158.00, Average Loss: 45.8147, LR: 0.000196
+Agent 3: Total reward: 1053.00, Average Loss: 28.0453, LR: 0.000196
+---Episode 27---
+Agent 0: Total reward: 1165.00, Average Loss: 49.6298, LR: 0.000194
+Agent 1: Total reward: 1102.00, Average Loss: 47.1956, LR: 0.000194
+Agent 2: Total reward: 1183.00, Average Loss: 31.9151, LR: 0.000194
+Best model updated, new reward 1183.0000000000002
+Agent 3: Total reward: 1058.00, Average Loss: 33.9294, LR: 0.000194
+---Episode 28---
+Agent 0: Total reward: 1168.00, Average Loss: 62.5043, LR: 0.000192
+Best model updated, new reward 1168.0000000000005
+Agent 1: Total reward: 1084.00, Average Loss: 52.0354, LR: 0.000192
+Agent 2: Total reward: 1170.00, Average Loss: 34.6947, LR: 0.000192
+Agent 3: Total reward: 1049.00, Average Loss: 22.8487, LR: 0.000192
+---Episode 29---
+Agent 0: Total reward: 1145.00, Average Loss: 58.4076, LR: 0.000190
+Agent 1: Total reward: 1101.00, Average Loss: 43.1098, LR: 0.000190
+Agent 2: Total reward: 1180.00, Average Loss: 33.9696, LR: 0.000190
+Agent 3: Total reward: 1077.00, Average Loss: 27.9670, LR: 0.000190
+---Episode 30---
+Agent 0: Total reward: 1158.00, Average Loss: 54.1751, LR: 0.000188
+Agent 1: Total reward: 1096.00, Average Loss: 44.9898, LR: 0.000188
+Agent 2: Total reward: 1161.00, Average Loss: 28.1614, LR: 0.000188
+Agent 3: Total reward: 1012.00, Average Loss: 27.8666, LR: 0.000188
+---Episode 31---
+Agent 0: Total reward: 1169.00, Average Loss: 41.5935, LR: 0.000186
+Best model updated, new reward 1169.0000000000007
+Agent 1: Total reward: 1126.00, Average Loss: 51.2669, LR: 0.000186
+Agent 2: Total reward: 1165.00, Average Loss: 41.3694, LR: 0.000186
+Agent 3: Total reward: 1029.00, Average Loss: 27.3798, LR: 0.000186
+---Episode 32---
+Agent 0: Total reward: 1096.00, Average Loss: 49.2560, LR: 0.000184
+Agent 1: Total reward: 1093.00, Average Loss: 43.1298, LR: 0.000184
+Agent 2: Total reward: 1156.00, Average Loss: 42.7877, LR: 0.000184
+Agent 3: Total reward: 1097.00, Average Loss: 28.9773, LR: 0.000184
+---Episode 33---
+Agent 0: Total reward: 1090.00, Average Loss: 52.1226, LR: 0.000182
+Agent 1: Total reward: 1046.00, Average Loss: 38.7935, LR: 0.000182
+Agent 2: Total reward: 1123.00, Average Loss: 37.8153, LR: 0.000182
+Agent 3: Total reward: 1062.00, Average Loss: 25.8653, LR: 0.000182
+---Episode 34---
+Agent 0: Total reward: 1007.00, Average Loss: 52.2753, LR: 0.000180
+Agent 1: Total reward: 995.00, Average Loss: 42.2759, LR: 0.000180
+Agent 2: Total reward: 1151.00, Average Loss: 36.6790, LR: 0.000180
+Agent 3: Total reward: 1070.00, Average Loss: 30.0181, LR: 0.000180
+---Episode 35---
+Agent 0: Total reward: 1078.00, Average Loss: 50.0663, LR: 0.000178
+Agent 1: Total reward: 1053.00, Average Loss: 46.6247, LR: 0.000178
+Agent 2: Total reward: 1155.00, Average Loss: 39.5696, LR: 0.000178
+Agent 3: Total reward: 1020.00, Average Loss: 27.2527, LR: 0.000178
+---Episode 36---
+Agent 0: Total reward: 1119.00, Average Loss: 60.0222, LR: 0.000176
+Agent 1: Total reward: 1067.00, Average Loss: 44.8838, LR: 0.000176
+Agent 2: Total reward: 1129.00, Average Loss: 35.9333, LR: 0.000176
+Agent 3: Total reward: 985.00, Average Loss: 29.5650, LR: 0.000176
+---Episode 37---
+Agent 0: Total reward: 860.90, Average Loss: 39.1553, LR: 0.000174
+Agent 1: Total reward: 1123.00, Average Loss: 48.7704, LR: 0.000174
+Agent 2: Total reward: 1169.00, Average Loss: 41.9392, LR: 0.000174
+Agent 3: Total reward: 1124.00, Average Loss: 20.1169, LR: 0.000174
+---Episode 38---
+Agent 0: Total reward: 1120.45, Average Loss: 37.5759, LR: 0.000172
+Agent 1: Total reward: 994.00, Average Loss: 46.6830, LR: 0.000172
+Agent 2: Total reward: 1083.00, Average Loss: 37.1820, LR: 0.000172
+Agent 3: Total reward: 1148.00, Average Loss: 25.7368, LR: 0.000172
+---Episode 39---
+Agent 0: Total reward: 1113.00, Average Loss: 33.8977, LR: 0.000170
+Agent 1: Total reward: 993.90, Average Loss: 41.9609, LR: 0.000170
+Agent 2: Total reward: 1167.00, Average Loss: 32.2059, LR: 0.000170
+Agent 3: Total reward: 1050.00, Average Loss: 30.6315, LR: 0.000170
+---Episode 40---
+Agent 0: Total reward: 1005.00, Average Loss: 33.9304, LR: 0.000168
+Agent 1: Total reward: 766.55, Average Loss: 35.7616, LR: 0.000168
+Agent 2: Total reward: 1164.00, Average Loss: 32.3336, LR: 0.000168
+Agent 3: Total reward: 1102.00, Average Loss: 26.7185, LR: 0.000168
+---Episode 41---
+Agent 0: Total reward: 1089.00, Average Loss: 26.9311, LR: 0.000166
+Agent 1: Total reward: 1007.00, Average Loss: 33.7154, LR: 0.000166
+Agent 2: Total reward: 1158.00, Average Loss: 35.7811, LR: 0.000166
+Agent 3: Total reward: 1115.00, Average Loss: 29.1871, LR: 0.000166
+---Episode 42---
+Agent 0: Total reward: 1124.00, Average Loss: 34.2674, LR: 0.000164
+Agent 1: Total reward: 1056.00, Average Loss: 35.7903, LR: 0.000164
+Agent 2: Total reward: 1162.00, Average Loss: 33.5230, LR: 0.000164
+Agent 3: Total reward: 1027.00, Average Loss: 25.8956, LR: 0.000164
+---Episode 43---
+Agent 0: Total reward: 1097.00, Average Loss: 29.2749, LR: 0.000162
+Agent 1: Total reward: 1111.00, Average Loss: 29.1336, LR: 0.000162
+Agent 2: Total reward: 1151.00, Average Loss: 31.6751, LR: 0.000162
+Agent 3: Total reward: 1025.00, Average Loss: 26.7325, LR: 0.000162
+---Episode 44---
+Agent 0: Total reward: 1079.00, Average Loss: 39.3394, LR: 0.000160
+Agent 1: Total reward: 1084.00, Average Loss: 28.6309, LR: 0.000160
+Agent 2: Total reward: 1135.00, Average Loss: 34.9960, LR: 0.000160
+Agent 3: Total reward: 1031.00, Average Loss: 22.1509, LR: 0.000160
+---Episode 45---
+Agent 0: Total reward: 1159.00, Average Loss: 36.7716, LR: 0.000158
+Agent 1: Total reward: 1114.00, Average Loss: 27.6287, LR: 0.000158
+Agent 2: Total reward: 1168.00, Average Loss: 35.9067, LR: 0.000158
+Agent 3: Total reward: 1015.30, Average Loss: 25.0409, LR: 0.000158
+---Episode 46---
+Agent 0: Total reward: 1128.00, Average Loss: 41.7159, LR: 0.000156
+Agent 1: Total reward: 1077.00, Average Loss: 28.4751, LR: 0.000156
+Agent 2: Total reward: 1085.00, Average Loss: 39.6621, LR: 0.000156
+Agent 3: Total reward: 258.05, Average Loss: 24.7188, LR: 0.000156
+---Episode 47---
+Agent 0: Total reward: 1111.00, Average Loss: 38.0796, LR: 0.000154
+Agent 1: Total reward: 1093.00, Average Loss: 28.8351, LR: 0.000154
+Agent 2: Total reward: 1144.00, Average Loss: 33.5904, LR: 0.000154
+Agent 3: Total reward: 1129.00, Average Loss: 25.2305, LR: 0.000154
+---Episode 48---
+Agent 0: Total reward: 1152.00, Average Loss: 36.6217, LR: 0.000152
+Agent 1: Total reward: 1034.00, Average Loss: 24.6674, LR: 0.000152
+Agent 2: Total reward: 1148.00, Average Loss: 26.2902, LR: 0.000152
+Agent 3: Total reward: 1009.00, Average Loss: 25.1117, LR: 0.000152
+---Episode 49---
+Agent 0: Total reward: 1141.00, Average Loss: 36.6671, LR: 0.000150
+Agent 1: Total reward: 1064.00, Average Loss: 29.1771, LR: 0.000150
+Agent 2: Total reward: 1148.00, Average Loss: 39.7067, LR: 0.000150
+Agent 3: Total reward: 1065.00, Average Loss: 25.6798, LR: 0.000150
+---Episode 50---
+Agent 0: Total reward: 1116.00, Average Loss: 31.5061, LR: 0.000148
+Agent 1: Total reward: 1021.00, Average Loss: 31.7511, LR: 0.000148
+Agent 2: Total reward: 1148.00, Average Loss: 41.2379, LR: 0.000148
+Agent 3: Total reward: 1059.00, Average Loss: 24.6669, LR: 0.000148
+---Episode 51---
+Agent 0: Total reward: 1131.00, Average Loss: 36.1352, LR: 0.000146
+Agent 1: Total reward: 974.90, Average Loss: 33.2697, LR: 0.000146
+Agent 2: Total reward: 1140.00, Average Loss: 34.5299, LR: 0.000146
+Agent 3: Total reward: 1036.00, Average Loss: 23.8209, LR: 0.000146
+---Episode 52---
+Agent 0: Total reward: 1097.00, Average Loss: 36.8444, LR: 0.000144
+Agent 1: Total reward: 1056.00, Average Loss: 28.3531, LR: 0.000144
+Agent 2: Total reward: 1149.00, Average Loss: 27.4344, LR: 0.000144
+Agent 3: Total reward: 1007.00, Average Loss: 19.3467, LR: 0.000144
+---Episode 53---
+Agent 0: Total reward: 1148.00, Average Loss: 33.3699, LR: 0.000142
+Agent 1: Total reward: 1073.00, Average Loss: 33.2875, LR: 0.000142
+Agent 2: Total reward: 1106.00, Average Loss: 33.2265, LR: 0.000142
+Agent 3: Total reward: 974.85, Average Loss: 22.2184, LR: 0.000142
+---Episode 54---
+Agent 0: Total reward: 1117.00, Average Loss: 30.8998, LR: 0.000140
+Agent 1: Total reward: 1116.00, Average Loss: 31.5827, LR: 0.000140
+Agent 2: Total reward: 1169.00, Average Loss: 36.6890, LR: 0.000140
+Agent 3: Total reward: 1104.00, Average Loss: 19.1773, LR: 0.000140
+---Episode 55---
+Agent 0: Total reward: 1137.00, Average Loss: 29.0312, LR: 0.000138
+Agent 1: Total reward: 1031.00, Average Loss: 30.0972, LR: 0.000138
+Agent 2: Total reward: 1037.00, Average Loss: 24.1101, LR: 0.000138
+Agent 3: Total reward: 1128.00, Average Loss: 23.4209, LR: 0.000138
+---Episode 56---
+Agent 0: Total reward: 1125.00, Average Loss: 36.5114, LR: 0.000136
+Agent 1: Total reward: 1148.00, Average Loss: 29.3294, LR: 0.000136
+Agent 2: Total reward: 1145.00, Average Loss: 34.5716, LR: 0.000136
+Agent 3: Total reward: 1106.00, Average Loss: 21.0170, LR: 0.000136
+---Episode 57---
+Agent 0: Total reward: 1155.00, Average Loss: 31.2994, LR: 0.000134
+Agent 1: Total reward: 1135.00, Average Loss: 27.4341, LR: 0.000134
+Agent 2: Total reward: 1123.00, Average Loss: 43.1894, LR: 0.000134
+Agent 3: Total reward: 1067.00, Average Loss: 22.3244, LR: 0.000134
+---Episode 58---
+Agent 0: Total reward: 1159.00, Average Loss: 31.5090, LR: 0.000132
+Agent 1: Total reward: 1144.00, Average Loss: 30.3987, LR: 0.000132
+Agent 2: Total reward: 1162.00, Average Loss: 32.4956, LR: 0.000132
+Agent 3: Total reward: 994.00, Average Loss: 24.9909, LR: 0.000132
+---Episode 59---
+Agent 0: Total reward: 1151.00, Average Loss: 28.6648, LR: 0.000130
+Agent 1: Total reward: 1072.00, Average Loss: 22.5977, LR: 0.000130
+Agent 2: Total reward: 1153.00, Average Loss: 34.8781, LR: 0.000130
+Agent 3: Total reward: 875.20, Average Loss: 18.2337, LR: 0.000130
+---Episode 60---
+Agent 0: Total reward: 1148.00, Average Loss: 33.2639, LR: 0.000128
+Agent 1: Total reward: 1112.00, Average Loss: 21.9864, LR: 0.000128
+Agent 2: Total reward: 1162.00, Average Loss: 34.3060, LR: 0.000128
+Agent 3: Total reward: 1127.00, Average Loss: 23.7096, LR: 0.000128
+---Episode 61---
+Agent 0: Total reward: 1088.00, Average Loss: 35.8241, LR: 0.000126
+Agent 1: Total reward: 1132.00, Average Loss: 26.9495, LR: 0.000126
+Agent 2: Total reward: 1132.00, Average Loss: 33.8722, LR: 0.000126
+Agent 3: Total reward: 1112.00, Average Loss: 19.9411, LR: 0.000126
+---Episode 62---
+Agent 0: Total reward: 1151.00, Average Loss: 37.5939, LR: 0.000124
+Agent 1: Total reward: 1155.00, Average Loss: 26.6153, LR: 0.000124
+Agent 2: Total reward: 1174.00, Average Loss: 40.8294, LR: 0.000124
+Agent 3: Total reward: 1144.00, Average Loss: 17.9630, LR: 0.000124
+---Episode 63---
+Agent 0: Total reward: 1112.00, Average Loss: 34.0884, LR: 0.000122
+Agent 1: Total reward: 1144.00, Average Loss: 29.7328, LR: 0.000122
+Agent 2: Total reward: 1139.00, Average Loss: 32.8140, LR: 0.000122
+Agent 3: Total reward: 1146.00, Average Loss: 20.1723, LR: 0.000122
+---Episode 64---
+Agent 0: Total reward: 1127.00, Average Loss: 31.3507, LR: 0.000120
+Agent 1: Total reward: 1088.00, Average Loss: 29.0455, LR: 0.000120
+Agent 2: Total reward: 1164.00, Average Loss: 28.7650, LR: 0.000120
+Agent 3: Total reward: 1123.00, Average Loss: 16.2253, LR: 0.000120
+---Episode 65---
+Agent 0: Total reward: 1142.00, Average Loss: 31.1429, LR: 0.000118
+Agent 1: Total reward: 1084.00, Average Loss: 25.7714, LR: 0.000118
+Agent 2: Total reward: 1154.00, Average Loss: 27.7015, LR: 0.000118
+Agent 3: Total reward: 1019.00, Average Loss: 22.4858, LR: 0.000118
+---Episode 66---
+Agent 0: Total reward: 1142.00, Average Loss: 28.2971, LR: 0.000116
+Agent 1: Total reward: 1087.00, Average Loss: 28.7630, LR: 0.000116
+Agent 2: Total reward: 1154.00, Average Loss: 33.6633, LR: 0.000116
+Agent 3: Total reward: 1036.00, Average Loss: 23.0465, LR: 0.000116
+---Episode 67---
+Agent 0: Total reward: 1148.00, Average Loss: 33.7727, LR: 0.000114
+Agent 1: Total reward: 1043.00, Average Loss: 36.3410, LR: 0.000114
+Agent 2: Total reward: 1170.00, Average Loss: 33.0488, LR: 0.000114
+Agent 3: Total reward: 1026.00, Average Loss: 17.1854, LR: 0.000114
+---Episode 68---
+Agent 0: Total reward: 1079.00, Average Loss: 31.1577, LR: 0.000112
+Agent 1: Total reward: 1081.00, Average Loss: 30.7140, LR: 0.000112
+Agent 2: Total reward: 1158.00, Average Loss: 28.9902, LR: 0.000112
+Agent 3: Total reward: 795.10, Average Loss: 19.8401, LR: 0.000112
+---Episode 69---
+Agent 0: Total reward: 1013.00, Average Loss: 24.9466, LR: 0.000110
+Agent 1: Total reward: 1027.00, Average Loss: 31.6920, LR: 0.000110
+Agent 2: Total reward: 1169.00, Average Loss: 26.4371, LR: 0.000110
+Agent 3: Total reward: 1015.00, Average Loss: 19.2810, LR: 0.000110
+---Episode 70---
+Agent 0: Total reward: 1065.30, Average Loss: 29.5523, LR: 0.000108
+Agent 1: Total reward: 1029.00, Average Loss: 30.6462, LR: 0.000108
+Agent 2: Total reward: 1163.00, Average Loss: 28.4916, LR: 0.000108
+Agent 3: Total reward: 932.95, Average Loss: 17.9880, LR: 0.000108
+---Episode 71---
+Agent 0: Total reward: 1125.00, Average Loss: 36.0447, LR: 0.000106
+Agent 1: Total reward: 1047.00, Average Loss: 23.7044, LR: 0.000106
+Agent 2: Total reward: 1166.00, Average Loss: 33.0681, LR: 0.000106
+Agent 3: Total reward: 943.55, Average Loss: 16.6304, LR: 0.000106
+---Episode 72---
+Agent 0: Total reward: 1086.00, Average Loss: 30.8703, LR: 0.000104
+Agent 1: Total reward: 1071.00, Average Loss: 23.5149, LR: 0.000104
+Agent 2: Total reward: 1148.00, Average Loss: 32.4577, LR: 0.000104
+Agent 3: Total reward: 1045.60, Average Loss: 21.0020, LR: 0.000104
+---Episode 73---
+Agent 0: Total reward: 1059.00, Average Loss: 29.7215, LR: 0.000102
+Agent 1: Total reward: 1090.00, Average Loss: 29.5573, LR: 0.000102
+Agent 2: Total reward: 1166.00, Average Loss: 38.3394, LR: 0.000102
+Agent 3: Total reward: 940.95, Average Loss: 18.5452, LR: 0.000102
+---Episode 74---
+Agent 0: Total reward: 1104.00, Average Loss: 32.2624, LR: 0.000100
+Agent 1: Total reward: 1068.00, Average Loss: 23.9664, LR: 0.000100
+Agent 2: Total reward: 1159.00, Average Loss: 34.6384, LR: 0.000100
+Agent 3: Total reward: 1018.00, Average Loss: 20.6156, LR: 0.000100
+---Episode 75---
+Agent 0: Total reward: 1092.00, Average Loss: 28.6269, LR: 0.000098
+Agent 1: Total reward: 1017.00, Average Loss: 28.6198, LR: 0.000098
+Agent 2: Total reward: 1125.00, Average Loss: 31.0852, LR: 0.000098
+Agent 3: Total reward: 99.35, Average Loss: 19.5682, LR: 0.000098
+---Episode 76---
+Agent 0: Total reward: 1097.00, Average Loss: 26.1693, LR: 0.000096
+Agent 1: Total reward: 1080.00, Average Loss: 22.3418, LR: 0.000096
+Agent 2: Total reward: 1166.00, Average Loss: 26.7553, LR: 0.000096
+Agent 3: Total reward: 214.10, Average Loss: 16.7674, LR: 0.000096
+---Episode 77---
+Agent 0: Total reward: 1019.00, Average Loss: 35.0135, LR: 0.000094
+Agent 1: Total reward: 1054.00, Average Loss: 32.3444, LR: 0.000094
+Agent 2: Total reward: 1163.00, Average Loss: 32.1148, LR: 0.000094
+Agent 3: Total reward: 690.95, Average Loss: 15.8815, LR: 0.000094
+---Episode 78---
+Agent 0: Total reward: 1051.00, Average Loss: 30.4411, LR: 0.000092
+Agent 1: Total reward: 1002.00, Average Loss: 25.1000, LR: 0.000092
+Agent 2: Total reward: 1157.00, Average Loss: 35.9042, LR: 0.000092
+Agent 3: Total reward: 717.90, Average Loss: 19.3082, LR: 0.000092
+---Episode 79---
+Agent 0: Total reward: 1034.00, Average Loss: 28.5319, LR: 0.000090
+Agent 1: Total reward: 1036.00, Average Loss: 23.1826, LR: 0.000090
+Agent 2: Total reward: 1131.00, Average Loss: 28.4552, LR: 0.000090
+Agent 3: Total reward: 865.15, Average Loss: 14.0325, LR: 0.000090
+---Episode 80---
+Agent 0: Total reward: 1059.00, Average Loss: 27.6415, LR: 0.000088
+Agent 1: Total reward: 1068.00, Average Loss: 30.0012, LR: 0.000088
+Agent 2: Total reward: 1158.00, Average Loss: 30.7434, LR: 0.000088
+Agent 3: Total reward: 1030.45, Average Loss: 17.0963, LR: 0.000088
+---Episode 81---
+Agent 0: Total reward: 1102.00, Average Loss: 32.4910, LR: 0.000086
+Agent 1: Total reward: 1094.00, Average Loss: 28.8237, LR: 0.000086
+Agent 2: Total reward: 1168.00, Average Loss: 31.4167, LR: 0.000086
+Agent 3: Total reward: 1021.45, Average Loss: 13.6451, LR: 0.000086
+---Episode 82---
+Agent 0: Total reward: 1092.00, Average Loss: 30.2849, LR: 0.000084
+Agent 1: Total reward: 1052.00, Average Loss: 27.4868, LR: 0.000084
+Agent 2: Total reward: 1152.00, Average Loss: 32.0329, LR: 0.000084
+Agent 3: Total reward: 976.20, Average Loss: 16.7031, LR: 0.000084
+---Episode 83---
+Agent 0: Total reward: 1070.00, Average Loss: 27.4351, LR: 0.000082
+Agent 1: Total reward: 1044.00, Average Loss: 23.8219, LR: 0.000082
+Agent 2: Total reward: 1167.00, Average Loss: 26.3553, LR: 0.000082
+Agent 3: Total reward: 548.20, Average Loss: 16.4199, LR: 0.000082
+---Episode 84---
+Agent 0: Total reward: 1099.00, Average Loss: 27.7809, LR: 0.000080
+Agent 1: Total reward: 1048.00, Average Loss: 32.6368, LR: 0.000080
+Agent 2: Total reward: 1149.00, Average Loss: 21.2106, LR: 0.000080
+Agent 3: Total reward: 1061.00, Average Loss: 20.4657, LR: 0.000080
+---Episode 85---
+Agent 0: Total reward: 1054.00, Average Loss: 29.9693, LR: 0.000078
+Agent 1: Total reward: 1032.00, Average Loss: 26.4229, LR: 0.000078
+Agent 2: Total reward: 1164.00, Average Loss: 30.1059, LR: 0.000078
+Agent 3: Total reward: 1042.00, Average Loss: 16.0472, LR: 0.000078
+---Episode 86---
+Agent 0: Total reward: 1072.00, Average Loss: 29.9971, LR: 0.000076
+Agent 1: Total reward: 1009.00, Average Loss: 24.8553, LR: 0.000076
+Agent 2: Total reward: 1154.00, Average Loss: 27.3607, LR: 0.000076
+Agent 3: Total reward: 1019.00, Average Loss: 15.2687, LR: 0.000076
+---Episode 87---
+Agent 0: Total reward: 1018.00, Average Loss: 28.8179, LR: 0.000074
+Agent 1: Total reward: 943.80, Average Loss: 26.0071, LR: 0.000074
+Agent 2: Total reward: 1137.00, Average Loss: 32.0605, LR: 0.000074
+Agent 3: Total reward: 1040.00, Average Loss: 16.2942, LR: 0.000074
+---Episode 88---
+Agent 0: Total reward: 1063.00, Average Loss: 33.9600, LR: 0.000072
+Agent 1: Total reward: 1025.00, Average Loss: 26.6037, LR: 0.000072
+Agent 2: Total reward: 1156.00, Average Loss: 27.9195, LR: 0.000072
+Agent 3: Total reward: 741.85, Average Loss: 13.6333, LR: 0.000072
+---Episode 89---
+Agent 0: Total reward: 1026.00, Average Loss: 25.7514, LR: 0.000070
+Agent 1: Total reward: 1009.00, Average Loss: 20.2853, LR: 0.000070
+Agent 2: Total reward: 1156.00, Average Loss: 26.2963, LR: 0.000070
+Agent 3: Total reward: 993.20, Average Loss: 15.7288, LR: 0.000070
+---Episode 90---
+Agent 0: Total reward: 1125.00, Average Loss: 29.3369, LR: 0.000068
+Agent 1: Total reward: 1044.00, Average Loss: 28.4640, LR: 0.000068
+Agent 2: Total reward: 1164.00, Average Loss: 33.3841, LR: 0.000068
+Agent 3: Total reward: 1067.00, Average Loss: 16.6135, LR: 0.000068
+---Episode 91---
+Agent 0: Total reward: 1121.00, Average Loss: 26.9689, LR: 0.000066
+Agent 1: Total reward: 1037.00, Average Loss: 24.1269, LR: 0.000066
+Agent 2: Total reward: 1136.00, Average Loss: 35.9622, LR: 0.000066
+Agent 3: Total reward: 1039.00, Average Loss: 12.1393, LR: 0.000066
+---Episode 92---
+Agent 0: Total reward: 1002.00, Average Loss: 29.0597, LR: 0.000064
+Agent 1: Total reward: 1059.00, Average Loss: 23.3877, LR: 0.000064
+Agent 2: Total reward: 1150.00, Average Loss: 37.9345, LR: 0.000064
+Agent 3: Total reward: 101.50, Average Loss: 16.8979, LR: 0.000064
+---Episode 93---
+Agent 0: Total reward: 1088.00, Average Loss: 26.0098, LR: 0.000062
+Agent 1: Total reward: 1088.00, Average Loss: 29.5148, LR: 0.000062
+Agent 2: Total reward: 1170.00, Average Loss: 28.6227, LR: 0.000062
+Agent 3: Total reward: 855.05, Average Loss: 14.2358, LR: 0.000062
+---Episode 94---
+Agent 0: Total reward: 1109.00, Average Loss: 31.6427, LR: 0.000060
+Agent 1: Total reward: 1057.00, Average Loss: 21.4789, LR: 0.000060
+Agent 2: Total reward: 1163.00, Average Loss: 27.7016, LR: 0.000060
+Agent 3: Total reward: 1024.60, Average Loss: 15.2681, LR: 0.000060
+---Episode 95---
+Agent 0: Total reward: 1105.00, Average Loss: 24.8132, LR: 0.000058
+Agent 1: Total reward: 1045.00, Average Loss: 24.1029, LR: 0.000058
+Agent 2: Total reward: 1136.00, Average Loss: 32.2661, LR: 0.000058
+Agent 3: Total reward: 824.20, Average Loss: 12.2382, LR: 0.000058
+---Episode 96---
+Agent 0: Total reward: 1097.00, Average Loss: 23.0364, LR: 0.000056
+Agent 1: Total reward: 993.00, Average Loss: 23.1017, LR: 0.000056
+Agent 2: Total reward: 1149.00, Average Loss: 32.1432, LR: 0.000056
+Agent 3: Total reward: 263.35, Average Loss: 15.2259, LR: 0.000056
+---Episode 97---
+Agent 0: Total reward: 1082.00, Average Loss: 25.4775, LR: 0.000054
+Agent 1: Total reward: 1048.00, Average Loss: 23.5348, LR: 0.000054
+Agent 2: Total reward: 1144.00, Average Loss: 24.8766, LR: 0.000054
+Agent 3: Total reward: 901.85, Average Loss: 12.9836, LR: 0.000054
+---Episode 98---
+Agent 0: Total reward: 1073.00, Average Loss: 25.9257, LR: 0.000052
+Agent 1: Total reward: 1003.00, Average Loss: 26.6365, LR: 0.000052
+Agent 2: Total reward: 1121.00, Average Loss: 28.7371, LR: 0.000052
+Agent 3: Total reward: 806.15, Average Loss: 13.6629, LR: 0.000052
+---Episode 99---
+Agent 0: Total reward: 1057.00, Average Loss: 24.1054, LR: 0.000050
+Agent 1: Total reward: 999.45, Average Loss: 21.7828, LR: 0.000050
+Agent 2: Total reward: 1150.00, Average Loss: 32.4125, LR: 0.000050
+Agent 3: Total reward: 1134.00, Average Loss: 11.6068, LR: 0.000050
+---Episode 100---
+Agent 0: Total reward: 1115.00, Average Loss: 26.1887, LR: 0.000048
+Agent 1: Total reward: 1069.00, Average Loss: 21.4750, LR: 0.000048
+Agent 2: Total reward: 1159.00, Average Loss: 36.3488, LR: 0.000048
+Agent 3: Total reward: 1034.00, Average Loss: 14.9691, LR: 0.000048
+Model at episode 100 saved successfully
+---Episode 101---
+Agent 0: Total reward: 1033.00, Average Loss: 23.3904, LR: 0.000046
+Agent 1: Total reward: 1069.00, Average Loss: 20.5916, LR: 0.000046
+Agent 2: Total reward: 1163.00, Average Loss: 26.5395, LR: 0.000046
+Agent 3: Total reward: 1045.00, Average Loss: 18.3733, LR: 0.000046
+---Episode 102---
+Agent 0: Total reward: 1070.00, Average Loss: 27.9711, LR: 0.000044
+Agent 1: Total reward: 1047.00, Average Loss: 20.9932, LR: 0.000044
+Agent 2: Total reward: 1156.00, Average Loss: 26.2784, LR: 0.000044
+Agent 3: Total reward: 761.45, Average Loss: 13.6362, LR: 0.000044
+---Episode 103---
+Agent 0: Total reward: 1034.00, Average Loss: 24.1443, LR: 0.000042
+Agent 1: Total reward: 1031.00, Average Loss: 22.2540, LR: 0.000042
+Agent 2: Total reward: 1156.00, Average Loss: 28.3032, LR: 0.000042
+Agent 3: Total reward: 925.95, Average Loss: 13.8378, LR: 0.000042
+---Episode 104---
+Agent 0: Total reward: 1102.00, Average Loss: 24.0740, LR: 0.000040
+Agent 1: Total reward: 1071.00, Average Loss: 27.9699, LR: 0.000040
+Agent 2: Total reward: 1147.00, Average Loss: 26.8533, LR: 0.000040
+Agent 3: Total reward: 1065.00, Average Loss: 13.5075, LR: 0.000040
+---Episode 105---
+Agent 0: Total reward: 1083.00, Average Loss: 22.5192, LR: 0.000038
+Agent 1: Total reward: 1042.00, Average Loss: 19.7809, LR: 0.000038
+Agent 2: Total reward: 1142.00, Average Loss: 33.4281, LR: 0.000038
+Agent 3: Total reward: 1060.00, Average Loss: 10.3741, LR: 0.000038
+---Episode 106---
+Agent 0: Total reward: 1091.00, Average Loss: 20.9279, LR: 0.000036
+Agent 1: Total reward: 1054.00, Average Loss: 22.9722, LR: 0.000036
+Agent 2: Total reward: 1152.00, Average Loss: 27.9545, LR: 0.000036
+Agent 3: Total reward: 890.45, Average Loss: 11.8211, LR: 0.000036
+---Episode 107---
+Agent 0: Total reward: 1026.00, Average Loss: 22.2831, LR: 0.000034
+Agent 1: Total reward: 986.00, Average Loss: 21.3711, LR: 0.000034
+Agent 2: Total reward: 1153.00, Average Loss: 28.1082, LR: 0.000034
+Agent 3: Total reward: 436.15, Average Loss: 13.2496, LR: 0.000034
+---Episode 108---
+Agent 0: Total reward: 1033.00, Average Loss: 24.2198, LR: 0.000032
+Agent 1: Total reward: 1072.00, Average Loss: 21.4555, LR: 0.000032
+Agent 2: Total reward: 1160.00, Average Loss: 27.8996, LR: 0.000032
+Agent 3: Total reward: 1034.00, Average Loss: 11.6107, LR: 0.000032
+---Episode 109---
+Agent 0: Total reward: 1073.00, Average Loss: 23.7462, LR: 0.000030
+Agent 1: Total reward: 1070.00, Average Loss: 23.0825, LR: 0.000030
+Agent 2: Total reward: 1170.00, Average Loss: 31.2900, LR: 0.000030
+Agent 3: Total reward: 1024.00, Average Loss: 10.3727, LR: 0.000030
+---Episode 110---
+Agent 0: Total reward: 1097.00, Average Loss: 27.7600, LR: 0.000028
+Agent 1: Total reward: 1069.00, Average Loss: 26.7205, LR: 0.000028
+Agent 2: Total reward: 1134.00, Average Loss: 26.7865, LR: 0.000028
+Agent 3: Total reward: 1075.00, Average Loss: 11.2913, LR: 0.000028
+---Episode 111---
+Agent 0: Total reward: 1089.00, Average Loss: 22.1258, LR: 0.000026
+Agent 1: Total reward: 1061.00, Average Loss: 23.9625, LR: 0.000026
+Agent 2: Total reward: 1160.00, Average Loss: 29.3756, LR: 0.000026
+Agent 3: Total reward: 715.60, Average Loss: 8.9436, LR: 0.000026
+---Episode 112---
+Agent 0: Total reward: 1087.00, Average Loss: 23.4220, LR: 0.000024
+Agent 1: Total reward: 1012.00, Average Loss: 23.0399, LR: 0.000024
+Agent 2: Total reward: 1154.00, Average Loss: 32.5227, LR: 0.000024
+Agent 3: Total reward: 294.30, Average Loss: 9.7153, LR: 0.000024
+---Episode 113---
+Agent 0: Total reward: 1022.00, Average Loss: 20.5238, LR: 0.000022
+Agent 1: Total reward: 968.75, Average Loss: 19.6481, LR: 0.000022
+Agent 2: Total reward: 1170.00, Average Loss: 31.3914, LR: 0.000022
+Agent 3: Total reward: 1023.35, Average Loss: 12.7308, LR: 0.000022
+---Episode 114---
+Agent 0: Total reward: 1012.00, Average Loss: 19.4455, LR: 0.000020
+Agent 1: Total reward: 1028.30, Average Loss: 26.0188, LR: 0.000020
+Agent 2: Total reward: 1159.00, Average Loss: 33.3473, LR: 0.000020
+Agent 3: Total reward: 1066.00, Average Loss: 10.1836, LR: 0.000020
+---Episode 115---
+Agent 0: Total reward: 1069.00, Average Loss: 22.3947, LR: 0.000018
+Agent 1: Total reward: 565.85, Average Loss: 24.5512, LR: 0.000018
+Agent 2: Total reward: 1167.00, Average Loss: 26.1080, LR: 0.000018
+Agent 3: Total reward: 1147.00, Average Loss: 11.7478, LR: 0.000018
+---Episode 116---
+Agent 0: Total reward: 1037.00, Average Loss: 23.7620, LR: 0.000016
+Agent 1: Total reward: 589.75, Average Loss: 21.9784, LR: 0.000016
+Agent 2: Total reward: 1142.00, Average Loss: 25.9860, LR: 0.000016
+Agent 3: Total reward: 1002.00, Average Loss: 12.8596, LR: 0.000016
+---Episode 117---
+Agent 0: Total reward: 1091.00, Average Loss: 25.9899, LR: 0.000014
+Agent 1: Total reward: 1087.00, Average Loss: 18.2198, LR: 0.000014
+Agent 2: Total reward: 1154.00, Average Loss: 22.1071, LR: 0.000014
+Agent 3: Total reward: 1099.00, Average Loss: 13.7398, LR: 0.000014
+---Episode 118---
+Agent 0: Total reward: 1084.00, Average Loss: 21.4066, LR: 0.000012
+Agent 1: Total reward: 1051.00, Average Loss: 14.8764, LR: 0.000012
+Agent 2: Total reward: 1092.00, Average Loss: 28.0670, LR: 0.000012
+Agent 3: Total reward: 1051.00, Average Loss: 10.6595, LR: 0.000012
+---Episode 119---
+Agent 0: Total reward: 1090.00, Average Loss: 30.6164, LR: 0.000010
+Agent 1: Total reward: 1086.00, Average Loss: 18.4546, LR: 0.000010
+Agent 2: Total reward: 1168.00, Average Loss: 29.5688, LR: 0.000010
+Agent 3: Total reward: 189.10, Average Loss: 11.8006, LR: 0.000010
+---Episode 120---
+Agent 0: Total reward: 1054.00, Average Loss: 19.9116, LR: 0.000010
+Agent 1: Total reward: 1043.00, Average Loss: 17.0118, LR: 0.000010
+Agent 2: Total reward: 1135.00, Average Loss: 26.1569, LR: 0.000010
+Agent 3: Total reward: 341.40, Average Loss: 9.9580, LR: 0.000010
+---Episode 121---
+Agent 0: Total reward: 1093.00, Average Loss: 29.3112, LR: 0.000010
+Agent 1: Total reward: 1061.00, Average Loss: 17.0912, LR: 0.000010
+Agent 2: Total reward: 1154.00, Average Loss: 22.7668, LR: 0.000010
+Agent 3: Total reward: 1088.15, Average Loss: 11.8925, LR: 0.000010
+---Episode 122---
+Agent 0: Total reward: 1059.00, Average Loss: 26.0759, LR: 0.000010
+Agent 1: Total reward: 1094.00, Average Loss: 16.8680, LR: 0.000010
+Agent 2: Total reward: 1170.00, Average Loss: 24.3395, LR: 0.000010
+Agent 3: Total reward: 1019.60, Average Loss: 9.8062, LR: 0.000010
+---Episode 123---
+Agent 0: Total reward: 1113.00, Average Loss: 23.3707, LR: 0.000010
+Agent 1: Total reward: 1051.00, Average Loss: 20.2710, LR: 0.000010
+Agent 2: Total reward: 1152.00, Average Loss: 30.1729, LR: 0.000010
+Agent 3: Total reward: 948.55, Average Loss: 9.2344, LR: 0.000010
+---Episode 124---
+Agent 0: Total reward: 1088.00, Average Loss: 21.7603, LR: 0.000010
+Agent 1: Total reward: 1039.00, Average Loss: 18.5025, LR: 0.000010
+Agent 2: Total reward: 1166.00, Average Loss: 29.1965, LR: 0.000010
+Agent 3: Total reward: 1036.60, Average Loss: 11.5745, LR: 0.000010
+---Episode 125---
+Agent 0: Total reward: 1070.00, Average Loss: 27.7497, LR: 0.000010
+Agent 1: Total reward: 1112.00, Average Loss: 20.7239, LR: 0.000010
+Agent 2: Total reward: 1151.00, Average Loss: 28.6064, LR: 0.000010
+Agent 3: Total reward: 1059.00, Average Loss: 8.6260, LR: 0.000010
+---Episode 126---
+Agent 0: Total reward: 1041.00, Average Loss: 24.7425, LR: 0.000010
+Agent 1: Total reward: 1019.00, Average Loss: 21.5218, LR: 0.000010
+Agent 2: Total reward: 1160.00, Average Loss: 30.4512, LR: 0.000010
+Agent 3: Total reward: 1024.90, Average Loss: 10.4649, LR: 0.000010
+---Episode 127---
+Agent 0: Total reward: 1074.00, Average Loss: 21.6615, LR: 0.000010
+Agent 1: Total reward: 1029.00, Average Loss: 18.4722, LR: 0.000010
+Agent 2: Total reward: 1164.00, Average Loss: 31.3442, LR: 0.000010
+Agent 3: Total reward: 990.35, Average Loss: 8.5985, LR: 0.000010
+---Episode 128---
+Agent 0: Total reward: 1121.00, Average Loss: 28.0535, LR: 0.000010
+Agent 1: Total reward: 1024.00, Average Loss: 19.2340, LR: 0.000010
+Agent 2: Total reward: 1165.00, Average Loss: 25.6293, LR: 0.000010
+Agent 3: Total reward: 883.45, Average Loss: 8.3106, LR: 0.000010
+---Episode 129---
+Agent 0: Total reward: 1047.00, Average Loss: 19.5578, LR: 0.000010
+Agent 1: Total reward: 1064.00, Average Loss: 17.5712, LR: 0.000010
+Agent 2: Total reward: 1166.00, Average Loss: 32.7176, LR: 0.000010
+Agent 3: Total reward: 1001.35, Average Loss: 9.5454, LR: 0.000010
+---Episode 130---
+Agent 0: Total reward: 1118.00, Average Loss: 24.4669, LR: 0.000010
+Agent 1: Total reward: 1052.00, Average Loss: 17.6058, LR: 0.000010
+Agent 2: Total reward: 1169.00, Average Loss: 26.8088, LR: 0.000010
+Agent 3: Total reward: 1071.00, Average Loss: 10.1856, LR: 0.000010
+---Episode 131---
+Agent 0: Total reward: 1089.00, Average Loss: 28.1959, LR: 0.000010
+Agent 1: Total reward: 1089.00, Average Loss: 16.2316, LR: 0.000010
+Agent 2: Total reward: 1174.00, Average Loss: 30.4100, LR: 0.000010
+Agent 3: Total reward: 847.85, Average Loss: 9.6082, LR: 0.000010
+---Episode 132---
+Agent 0: Total reward: 1077.00, Average Loss: 19.4091, LR: 0.000010
+Agent 1: Total reward: 1039.00, Average Loss: 18.4280, LR: 0.000010
+Agent 2: Total reward: 1151.00, Average Loss: 32.9723, LR: 0.000010
+Agent 3: Total reward: 303.05, Average Loss: 10.4997, LR: 0.000010
+---Episode 133---
+Agent 0: Total reward: 1076.00, Average Loss: 17.5062, LR: 0.000010
+Agent 1: Total reward: 1086.00, Average Loss: 14.6203, LR: 0.000010
+Agent 2: Total reward: 1178.00, Average Loss: 24.5432, LR: 0.000010
+Agent 3: Total reward: 1127.00, Average Loss: 9.6385, LR: 0.000010
+---Episode 134---
+Agent 0: Total reward: 1089.00, Average Loss: 19.9247, LR: 0.000010
+Agent 1: Total reward: 1063.00, Average Loss: 16.5540, LR: 0.000010
+Agent 2: Total reward: 1163.00, Average Loss: 32.0454, LR: 0.000010
+Agent 3: Total reward: 1138.00, Average Loss: 9.7856, LR: 0.000010
+---Episode 135---
+Agent 0: Total reward: 1111.00, Average Loss: 23.9742, LR: 0.000010
+Agent 1: Total reward: 1070.00, Average Loss: 20.0808, LR: 0.000010
+Agent 2: Total reward: 1180.00, Average Loss: 25.1585, LR: 0.000010
+Agent 3: Total reward: 1078.00, Average Loss: 10.5682, LR: 0.000010
+---Episode 136---
+Agent 0: Total reward: 1104.00, Average Loss: 22.0861, LR: 0.000010
+Agent 1: Total reward: 1072.00, Average Loss: 22.4770, LR: 0.000010
+Agent 2: Total reward: 1154.00, Average Loss: 31.5718, LR: 0.000010
+Agent 3: Total reward: 1038.75, Average Loss: 8.6181, LR: 0.000010
+---Episode 137---
+Agent 0: Total reward: 1089.00, Average Loss: 26.2635, LR: 0.000010
+Agent 1: Total reward: 1056.00, Average Loss: 19.5795, LR: 0.000010
+Agent 2: Total reward: 1146.00, Average Loss: 23.2902, LR: 0.000010
+Agent 3: Total reward: 1090.00, Average Loss: 9.0820, LR: 0.000010
+---Episode 138---
+Agent 0: Total reward: 1110.00, Average Loss: 22.0739, LR: 0.000010
+Agent 1: Total reward: 1073.00, Average Loss: 22.1777, LR: 0.000010
+Agent 2: Total reward: 1167.00, Average Loss: 21.7598, LR: 0.000010
+Agent 3: Total reward: 1048.75, Average Loss: 9.8056, LR: 0.000010
+---Episode 139---
+Agent 0: Total reward: 1108.00, Average Loss: 23.7855, LR: 0.000010
+Agent 1: Total reward: 1114.00, Average Loss: 19.8942, LR: 0.000010
+Agent 2: Total reward: 1152.00, Average Loss: 29.3992, LR: 0.000010
+Agent 3: Total reward: 1106.00, Average Loss: 9.1810, LR: 0.000010
+---Episode 140---
+Agent 0: Total reward: 1109.00, Average Loss: 24.7973, LR: 0.000010
+Agent 1: Total reward: 1078.00, Average Loss: 17.7390, LR: 0.000010
+Agent 2: Total reward: 1164.00, Average Loss: 28.3467, LR: 0.000010
+Agent 3: Total reward: 1073.00, Average Loss: 9.5784, LR: 0.000010
+---Episode 141---
+Agent 0: Total reward: 1119.00, Average Loss: 24.3434, LR: 0.000010
+Agent 1: Total reward: 1074.00, Average Loss: 15.0269, LR: 0.000010
+Agent 2: Total reward: 1149.00, Average Loss: 24.1907, LR: 0.000010
+Agent 3: Total reward: 992.20, Average Loss: 9.0792, LR: 0.000010
+---Episode 142---
+Agent 0: Total reward: 1079.00, Average Loss: 23.2802, LR: 0.000010
+Agent 1: Total reward: 1124.00, Average Loss: 13.3470, LR: 0.000010
+Agent 2: Total reward: 1155.00, Average Loss: 30.3406, LR: 0.000010
+Agent 3: Total reward: 970.65, Average Loss: 8.5143, LR: 0.000010
+---Episode 143---
+Agent 0: Total reward: 1089.00, Average Loss: 19.9869, LR: 0.000010
+Agent 1: Total reward: 1034.00, Average Loss: 16.9203, LR: 0.000010
+Agent 2: Total reward: 1143.00, Average Loss: 34.4550, LR: 0.000010
+Agent 3: Total reward: 992.35, Average Loss: 8.8728, LR: 0.000010
+---Episode 144---
+Agent 0: Total reward: 1065.00, Average Loss: 19.6366, LR: 0.000010
+Agent 1: Total reward: 1013.00, Average Loss: 17.7091, LR: 0.000010
+Agent 2: Total reward: 1142.00, Average Loss: 23.4121, LR: 0.000010
+Agent 3: Total reward: 1063.00, Average Loss: 8.8143, LR: 0.000010
+---Episode 145---
+Agent 0: Total reward: 1073.00, Average Loss: 23.2661, LR: 0.000010
+Agent 1: Total reward: 1048.00, Average Loss: 17.8529, LR: 0.000010
+Agent 2: Total reward: 1166.00, Average Loss: 25.0832, LR: 0.000010
+Agent 3: Total reward: 1057.00, Average Loss: 9.7609, LR: 0.000010
+---Episode 146---
+Agent 0: Total reward: 1062.00, Average Loss: 22.6068, LR: 0.000010
+Agent 1: Total reward: 1092.00, Average Loss: 20.1006, LR: 0.000010
+Agent 2: Total reward: 1151.00, Average Loss: 24.1442, LR: 0.000010
+Agent 3: Total reward: 1073.00, Average Loss: 8.6169, LR: 0.000010
+---Episode 147---
+Agent 0: Total reward: 1020.00, Average Loss: 23.2587, LR: 0.000010
+Agent 1: Total reward: 1012.00, Average Loss: 17.1486, LR: 0.000010
+Agent 2: Total reward: 1118.00, Average Loss: 29.2386, LR: 0.000010
+Agent 3: Total reward: 1094.00, Average Loss: 10.2032, LR: 0.000010
+---Episode 148---
+Agent 0: Total reward: 1021.00, Average Loss: 23.4669, LR: 0.000010
+Agent 1: Total reward: 1032.00, Average Loss: 15.1750, LR: 0.000010
+Agent 2: Total reward: 1159.00, Average Loss: 32.9805, LR: 0.000010
+Agent 3: Total reward: 1058.00, Average Loss: 8.8094, LR: 0.000010
+---Episode 149---
+Agent 0: Total reward: 1033.00, Average Loss: 20.5414, LR: 0.000010
+Agent 1: Total reward: 1029.00, Average Loss: 19.1149, LR: 0.000010
+Agent 2: Total reward: 1154.00, Average Loss: 29.0358, LR: 0.000010
+Agent 3: Total reward: 896.85, Average Loss: 8.9163, LR: 0.000010
+---Episode 150---
+Agent 0: Total reward: 1065.00, Average Loss: 22.6140, LR: 0.000010
+Agent 1: Total reward: 1049.00, Average Loss: 15.9854, LR: 0.000010
+Agent 2: Total reward: 1157.00, Average Loss: 29.9938, LR: 0.000010
+Agent 3: Total reward: 816.20, Average Loss: 7.2466, LR: 0.000010
+---Episode 151---
+Agent 0: Total reward: 1019.00, Average Loss: 17.7989, LR: 0.000010
+Agent 1: Total reward: 1091.00, Average Loss: 15.8912, LR: 0.000010
+Agent 2: Total reward: 1167.00, Average Loss: 28.3792, LR: 0.000010
+Agent 3: Total reward: 938.55, Average Loss: 7.1357, LR: 0.000010
+---Episode 152---
+Agent 0: Total reward: 1081.00, Average Loss: 19.4102, LR: 0.000010
+Agent 1: Total reward: 1036.00, Average Loss: 14.5279, LR: 0.000010
+Agent 2: Total reward: 1143.00, Average Loss: 27.1112, LR: 0.000010
+Agent 3: Total reward: 1108.00, Average Loss: 7.7983, LR: 0.000010
+---Episode 153---
+Agent 0: Total reward: 1052.00, Average Loss: 22.6052, LR: 0.000010
+Agent 1: Total reward: 1040.00, Average Loss: 15.2857, LR: 0.000010
+Agent 2: Total reward: 1154.00, Average Loss: 18.1468, LR: 0.000010
+Agent 3: Total reward: 1114.00, Average Loss: 7.6705, LR: 0.000010
+---Episode 154---
+Agent 0: Total reward: 1039.00, Average Loss: 19.1488, LR: 0.000010
+Agent 1: Total reward: 1022.00, Average Loss: 16.8569, LR: 0.000010
+Agent 2: Total reward: 1133.00, Average Loss: 29.3042, LR: 0.000010
+Agent 3: Total reward: 978.00, Average Loss: 8.0424, LR: 0.000010
+---Episode 155---
+Agent 0: Total reward: 1069.00, Average Loss: 21.9382, LR: 0.000010
+Agent 1: Total reward: 1007.00, Average Loss: 17.3306, LR: 0.000010
+Agent 2: Total reward: 1170.00, Average Loss: 26.4007, LR: 0.000010
+Agent 3: Total reward: 1019.05, Average Loss: 7.9011, LR: 0.000010
+---Episode 156---
+Agent 0: Total reward: 1066.00, Average Loss: 22.6179, LR: 0.000010
+Agent 1: Total reward: 1092.00, Average Loss: 16.1586, LR: 0.000010
+Agent 2: Total reward: 1143.00, Average Loss: 22.0114, LR: 0.000010
+Agent 3: Total reward: 896.70, Average Loss: 8.1602, LR: 0.000010
+---Episode 157---
+Agent 0: Total reward: 1099.00, Average Loss: 22.9014, LR: 0.000010
+Agent 1: Total reward: 1078.00, Average Loss: 15.5190, LR: 0.000010
+Agent 2: Total reward: 1168.00, Average Loss: 27.1125, LR: 0.000010
+Agent 3: Total reward: 178.00, Average Loss: 7.7862, LR: 0.000010
+---Episode 158---
+Agent 0: Total reward: 1096.00, Average Loss: 24.7270, LR: 0.000010
+Agent 1: Total reward: 1076.00, Average Loss: 16.0133, LR: 0.000010
+Agent 2: Total reward: 1142.00, Average Loss: 27.0617, LR: 0.000010
+Agent 3: Total reward: 798.40, Average Loss: 6.7808, LR: 0.000010
+---Episode 159---
+Agent 0: Total reward: 1113.00, Average Loss: 20.6032, LR: 0.000010
+Agent 1: Total reward: 1073.00, Average Loss: 17.0801, LR: 0.000010
+Agent 2: Total reward: 1157.00, Average Loss: 26.3492, LR: 0.000010
+Agent 3: Total reward: 1045.60, Average Loss: 7.6838, LR: 0.000010
+---Episode 160---
+Agent 0: Total reward: 1089.00, Average Loss: 22.0647, LR: 0.000010
+Agent 1: Total reward: 1042.00, Average Loss: 15.2539, LR: 0.000010
+Agent 2: Total reward: 1158.00, Average Loss: 24.9581, LR: 0.000010
+Agent 3: Total reward: 975.05, Average Loss: 9.4036, LR: 0.000010
+---Episode 161---
+Agent 0: Total reward: 1070.00, Average Loss: 20.5113, LR: 0.000010
+Agent 1: Total reward: 1021.00, Average Loss: 18.2734, LR: 0.000010
+Agent 2: Total reward: 1060.00, Average Loss: 30.2892, LR: 0.000010
+Agent 3: Total reward: 150.30, Average Loss: 7.3115, LR: 0.000010
+---Episode 162---
+Agent 0: Total reward: 1103.00, Average Loss: 20.5443, LR: 0.000010
+Agent 1: Total reward: 1046.00, Average Loss: 16.3112, LR: 0.000010
+Agent 2: Total reward: 1134.00, Average Loss: 26.2039, LR: 0.000010
+Agent 3: Total reward: 701.35, Average Loss: 8.5342, LR: 0.000010
+---Episode 163---
+Agent 0: Total reward: 1067.00, Average Loss: 18.9164, LR: 0.000010
+Agent 1: Total reward: 1039.00, Average Loss: 15.5799, LR: 0.000010
+Agent 2: Total reward: 1163.00, Average Loss: 27.7987, LR: 0.000010
+Agent 3: Total reward: 1103.00, Average Loss: 8.2897, LR: 0.000010
+---Episode 164---
+Agent 0: Total reward: 1072.00, Average Loss: 21.3992, LR: 0.000010
+Agent 1: Total reward: 1051.00, Average Loss: 17.2873, LR: 0.000010
+Agent 2: Total reward: 1166.00, Average Loss: 22.8482, LR: 0.000010
+Agent 3: Total reward: 983.75, Average Loss: 9.0338, LR: 0.000010
+---Episode 165---
+Agent 0: Total reward: 1045.00, Average Loss: 17.4736, LR: 0.000010
+Agent 1: Total reward: 1092.00, Average Loss: 17.2257, LR: 0.000010
+Agent 2: Total reward: 1164.00, Average Loss: 27.6600, LR: 0.000010
+Agent 3: Total reward: 941.65, Average Loss: 7.3330, LR: 0.000010
+---Episode 166---
+Agent 0: Total reward: 1099.00, Average Loss: 17.9950, LR: 0.000010
+Agent 1: Total reward: 1009.00, Average Loss: 12.9179, LR: 0.000010
+Agent 2: Total reward: 1156.00, Average Loss: 21.7822, LR: 0.000010
+Agent 3: Total reward: 875.30, Average Loss: 6.5534, LR: 0.000010
+---Episode 167---
+Agent 0: Total reward: 1084.00, Average Loss: 18.8019, LR: 0.000010
+Agent 1: Total reward: 1034.00, Average Loss: 15.3204, LR: 0.000010
+Agent 2: Total reward: 1146.00, Average Loss: 29.3495, LR: 0.000010
+Agent 3: Total reward: 841.90, Average Loss: 8.4156, LR: 0.000010
+---Episode 168---
+Agent 0: Total reward: 1069.00, Average Loss: 23.6285, LR: 0.000010
+Agent 1: Total reward: 1085.00, Average Loss: 17.0277, LR: 0.000010
+Agent 2: Total reward: 1155.00, Average Loss: 27.0936, LR: 0.000010
+Agent 3: Total reward: 1066.00, Average Loss: 7.2676, LR: 0.000010
+---Episode 169---
+Agent 0: Total reward: 1055.00, Average Loss: 21.3057, LR: 0.000010
+Agent 1: Total reward: 1030.00, Average Loss: 22.3193, LR: 0.000010
+Agent 2: Total reward: 1157.00, Average Loss: 26.7064, LR: 0.000010
+Agent 3: Total reward: 1055.00, Average Loss: 7.0249, LR: 0.000010
+---Episode 170---
+Agent 0: Total reward: 1109.00, Average Loss: 21.9510, LR: 0.000010
+Agent 1: Total reward: 940.90, Average Loss: 12.1120, LR: 0.000010
+Agent 2: Total reward: 1127.00, Average Loss: 24.4426, LR: 0.000010
+Agent 3: Total reward: 1099.00, Average Loss: 8.8133, LR: 0.000010
+---Episode 171---
+Agent 0: Total reward: 1059.00, Average Loss: 23.8746, LR: 0.000010
+Agent 1: Total reward: 1087.00, Average Loss: 15.6821, LR: 0.000010
+Agent 2: Total reward: 1148.00, Average Loss: 24.6807, LR: 0.000010
+Agent 3: Total reward: 1127.00, Average Loss: 6.9436, LR: 0.000010
+---Episode 172---
+Agent 0: Total reward: 1083.00, Average Loss: 17.8555, LR: 0.000010
+Agent 1: Total reward: 1129.00, Average Loss: 15.5685, LR: 0.000010
+Agent 2: Total reward: 1161.00, Average Loss: 35.4655, LR: 0.000010
+Agent 3: Total reward: 1150.00, Average Loss: 7.5363, LR: 0.000010
+---Episode 173---
+Agent 0: Total reward: 1032.00, Average Loss: 22.7384, LR: 0.000010
+Agent 1: Total reward: 1039.00, Average Loss: 17.5235, LR: 0.000010
+Agent 2: Total reward: 1023.70, Average Loss: 26.0316, LR: 0.000010
+Agent 3: Total reward: 1098.00, Average Loss: 8.4569, LR: 0.000010
+---Episode 174---
+Agent 0: Total reward: 1070.00, Average Loss: 20.8853, LR: 0.000010
+Agent 1: Total reward: 1067.00, Average Loss: 15.9392, LR: 0.000010
+Agent 2: Total reward: 1169.00, Average Loss: 23.2629, LR: 0.000010
+Agent 3: Total reward: 1094.00, Average Loss: 6.1986, LR: 0.000010
+---Episode 175---
+Agent 0: Total reward: 1081.00, Average Loss: 22.5216, LR: 0.000010
+Agent 1: Total reward: 1110.00, Average Loss: 17.4084, LR: 0.000010
+Agent 2: Total reward: 1161.00, Average Loss: 24.8868, LR: 0.000010
+Agent 3: Total reward: 1113.00, Average Loss: 7.2976, LR: 0.000010
+---Episode 176---
+Agent 0: Total reward: 1115.00, Average Loss: 17.7683, LR: 0.000010
+Agent 1: Total reward: 1019.00, Average Loss: 17.7946, LR: 0.000010
+Agent 2: Total reward: 1168.00, Average Loss: 19.6452, LR: 0.000010
+Agent 3: Total reward: 1077.00, Average Loss: 6.8359, LR: 0.000010
+---Episode 177---
+Agent 0: Total reward: 1056.00, Average Loss: 21.0371, LR: 0.000010
+Agent 1: Total reward: 1085.00, Average Loss: 16.8966, LR: 0.000010
+Agent 2: Total reward: 1149.00, Average Loss: 26.5861, LR: 0.000010
+Agent 3: Total reward: 1039.00, Average Loss: 7.8101, LR: 0.000010
+---Episode 178---
+Agent 0: Total reward: 1067.00, Average Loss: 22.4432, LR: 0.000010
+Agent 1: Total reward: 1059.00, Average Loss: 15.0588, LR: 0.000010
+Agent 2: Total reward: 1170.00, Average Loss: 21.6171, LR: 0.000010
+Agent 3: Total reward: 1064.00, Average Loss: 6.1729, LR: 0.000010
+---Episode 179---
+Agent 0: Total reward: 1068.00, Average Loss: 21.0290, LR: 0.000010
+Agent 1: Total reward: 1047.00, Average Loss: 16.9630, LR: 0.000010
+Agent 2: Total reward: 1152.00, Average Loss: 30.4063, LR: 0.000010
+Agent 3: Total reward: 1014.75, Average Loss: 7.5890, LR: 0.000010
+---Episode 180---
+Agent 0: Total reward: 1064.00, Average Loss: 22.0218, LR: 0.000010
+Agent 1: Total reward: 1053.00, Average Loss: 18.1093, LR: 0.000010
+Agent 2: Total reward: 1170.00, Average Loss: 26.9116, LR: 0.000010
+Agent 3: Total reward: 1071.00, Average Loss: 7.9858, LR: 0.000010
+---Episode 181---
+Agent 0: Total reward: 1130.00, Average Loss: 21.7917, LR: 0.000010
+Agent 1: Total reward: 1013.00, Average Loss: 15.6948, LR: 0.000010
+Agent 2: Total reward: 1102.00, Average Loss: 24.0948, LR: 0.000010
+Agent 3: Total reward: 1071.00, Average Loss: 9.0576, LR: 0.000010
+---Episode 182---
+Agent 0: Total reward: 1119.00, Average Loss: 19.0466, LR: 0.000010
+Agent 1: Total reward: 1062.00, Average Loss: 18.8566, LR: 0.000010
+Agent 2: Total reward: 1132.00, Average Loss: 25.3177, LR: 0.000010
+Agent 3: Total reward: 1077.00, Average Loss: 6.9439, LR: 0.000010
+---Episode 183---
+Agent 0: Total reward: 1122.00, Average Loss: 18.5390, LR: 0.000010
+Agent 1: Total reward: 1051.00, Average Loss: 15.7903, LR: 0.000010
+Agent 2: Total reward: 1170.00, Average Loss: 24.2642, LR: 0.000010
+Agent 3: Total reward: 1092.00, Average Loss: 6.7406, LR: 0.000010
+---Episode 184---
+Agent 0: Total reward: 1090.00, Average Loss: 20.9344, LR: 0.000010
+Agent 1: Total reward: 1069.00, Average Loss: 16.3844, LR: 0.000010
+Agent 2: Total reward: 1153.00, Average Loss: 21.6308, LR: 0.000010
+Agent 3: Total reward: 1046.00, Average Loss: 6.1825, LR: 0.000010
+---Episode 185---
+Agent 0: Total reward: 1075.00, Average Loss: 25.4417, LR: 0.000010
+Agent 1: Total reward: 1017.00, Average Loss: 14.4188, LR: 0.000010
+Agent 2: Total reward: 1151.00, Average Loss: 26.5487, LR: 0.000010
+Agent 3: Total reward: 1054.00, Average Loss: 8.0185, LR: 0.000010
+---Episode 186---
+Agent 0: Total reward: 1105.00, Average Loss: 22.8371, LR: 0.000010
+Agent 1: Total reward: 1082.00, Average Loss: 12.9210, LR: 0.000010
+Agent 2: Total reward: 1165.00, Average Loss: 25.9384, LR: 0.000010
+Agent 3: Total reward: 1072.00, Average Loss: 6.2446, LR: 0.000010
+---Episode 187---
+Agent 0: Total reward: 1051.00, Average Loss: 22.2465, LR: 0.000010
+Agent 1: Total reward: 1049.00, Average Loss: 15.9841, LR: 0.000010
+Agent 2: Total reward: 1164.00, Average Loss: 22.8234, LR: 0.000010
+Agent 3: Total reward: 1034.05, Average Loss: 7.1489, LR: 0.000010
+---Episode 188---
+Agent 0: Total reward: 1105.00, Average Loss: 17.2636, LR: 0.000010
+Agent 1: Total reward: 1027.00, Average Loss: 15.9660, LR: 0.000010
+Agent 2: Total reward: 1167.00, Average Loss: 20.3330, LR: 0.000010
+Agent 3: Total reward: 1071.00, Average Loss: 7.3376, LR: 0.000010
+---Episode 189---
+Agent 0: Total reward: 1057.00, Average Loss: 20.0263, LR: 0.000010
+Agent 1: Total reward: 1083.00, Average Loss: 14.2182, LR: 0.000010
+Agent 2: Total reward: 1155.00, Average Loss: 26.9615, LR: 0.000010
+Agent 3: Total reward: 1044.00, Average Loss: 7.3707, LR: 0.000010
+---Episode 190---
+Agent 0: Total reward: 1070.00, Average Loss: 17.4824, LR: 0.000010
+Agent 1: Total reward: 1045.00, Average Loss: 12.8461, LR: 0.000010
+Agent 2: Total reward: 1170.00, Average Loss: 21.0247, LR: 0.000010
+Agent 3: Total reward: 503.80, Average Loss: 6.7914, LR: 0.000010
+---Episode 191---
+Agent 0: Total reward: 1014.15, Average Loss: 18.2204, LR: 0.000010
+Agent 1: Total reward: 1066.00, Average Loss: 12.3375, LR: 0.000010
+Agent 2: Total reward: 1157.00, Average Loss: 24.0594, LR: 0.000010
+Agent 3: Total reward: -312.80, Average Loss: 6.0901, LR: 0.000010
+---Episode 192---
+Agent 0: Total reward: 1097.00, Average Loss: 18.5714, LR: 0.000010
+Agent 1: Total reward: 1003.00, Average Loss: 14.5548, LR: 0.000010
+Agent 2: Total reward: 1156.00, Average Loss: 21.4363, LR: 0.000010
+Agent 3: Total reward: 996.60, Average Loss: 7.6716, LR: 0.000010
+---Episode 193---
+Agent 0: Total reward: 952.60, Average Loss: 22.3388, LR: 0.000010
+Agent 1: Total reward: 989.15, Average Loss: 13.9589, LR: 0.000010
+Agent 2: Total reward: 1156.00, Average Loss: 23.1914, LR: 0.000010
+Agent 3: Total reward: 987.20, Average Loss: 6.9183, LR: 0.000010
+---Episode 194---
+Agent 0: Total reward: 963.80, Average Loss: 20.0158, LR: 0.000010
+Agent 1: Total reward: 958.70, Average Loss: 12.7760, LR: 0.000010
+Agent 2: Total reward: 1161.00, Average Loss: 22.4768, LR: 0.000010
+Agent 3: Total reward: 1082.00, Average Loss: 6.8555, LR: 0.000010
+---Episode 195---
+Agent 0: Total reward: 1122.00, Average Loss: 21.5604, LR: 0.000010
+Agent 1: Total reward: 1070.00, Average Loss: 14.2841, LR: 0.000010
+Agent 2: Total reward: 1161.00, Average Loss: 27.5576, LR: 0.000010
+Agent 3: Total reward: 1005.60, Average Loss: 5.1683, LR: 0.000010
+---Episode 196---
+Agent 0: Total reward: 1093.00, Average Loss: 19.3196, LR: 0.000010
+Agent 1: Total reward: 1065.00, Average Loss: 14.9847, LR: 0.000010
+Agent 2: Total reward: 1139.00, Average Loss: 26.8309, LR: 0.000010
+Agent 3: Total reward: 1084.00, Average Loss: 5.5992, LR: 0.000010
+---Episode 197---
+Agent 0: Total reward: 1040.00, Average Loss: 23.8338, LR: 0.000010
+Agent 1: Total reward: 1015.00, Average Loss: 15.0655, LR: 0.000010
+Agent 2: Total reward: 1148.00, Average Loss: 24.7396, LR: 0.000010
+Agent 3: Total reward: 1029.05, Average Loss: 6.9953, LR: 0.000010
+---Episode 198---
+Agent 0: Total reward: 1070.00, Average Loss: 21.3842, LR: 0.000010
+Agent 1: Total reward: 1003.00, Average Loss: 13.4843, LR: 0.000010
+Agent 2: Total reward: 1125.00, Average Loss: 17.3764, LR: 0.000010
+Agent 3: Total reward: 1068.00, Average Loss: 6.2442, LR: 0.000010
+---Episode 199---
+Agent 0: Total reward: 1096.00, Average Loss: 17.0714, LR: 0.000010
+Agent 1: Total reward: 1027.20, Average Loss: 12.9953, LR: 0.000010
+Agent 2: Total reward: 1143.00, Average Loss: 24.6866, LR: 0.000010
+Agent 3: Total reward: 1071.00, Average Loss: 6.7089, LR: 0.000010
+---Episode 200---
+Agent 0: Total reward: 1127.00, Average Loss: 19.0422, LR: 0.000010
+Agent 1: Total reward: 1001.00, Average Loss: 19.8096, LR: 0.000010
+Agent 2: Total reward: 1169.00, Average Loss: 21.0046, LR: 0.000010
+Agent 3: Total reward: 973.35, Average Loss: 7.0490, LR: 0.000010
+Model at episode 200 saved successfully
+---Episode 201---
+Agent 0: Total reward: 1136.00, Average Loss: 20.1924, LR: 0.000010
+Agent 1: Total reward: 1066.00, Average Loss: 14.9093, LR: 0.000010
+Agent 2: Total reward: 1170.00, Average Loss: 27.6734, LR: 0.000010
+Agent 3: Total reward: 652.95, Average Loss: 6.8414, LR: 0.000010
+---Episode 202---
+Agent 0: Total reward: 1128.00, Average Loss: 21.7925, LR: 0.000010
+Agent 1: Total reward: 1005.00, Average Loss: 12.6425, LR: 0.000010
+Agent 2: Total reward: 1170.00, Average Loss: 22.3878, LR: 0.000010
+Agent 3: Total reward: 1052.30, Average Loss: 5.7906, LR: 0.000010
+---Episode 203---
+Agent 0: Total reward: 1129.00, Average Loss: 17.1695, LR: 0.000010
+Agent 1: Total reward: 1051.00, Average Loss: 15.9563, LR: 0.000010
+Agent 2: Total reward: 1165.00, Average Loss: 22.4197, LR: 0.000010
+Agent 3: Total reward: 999.60, Average Loss: 7.0833, LR: 0.000010
+---Episode 204---
+Agent 0: Total reward: 1061.00, Average Loss: 19.6990, LR: 0.000010
+Agent 1: Total reward: 1014.00, Average Loss: 16.9054, LR: 0.000010
+Agent 2: Total reward: 1110.00, Average Loss: 27.0934, LR: 0.000010
+Agent 3: Total reward: 1047.00, Average Loss: 7.5111, LR: 0.000010
+---Episode 205---
+Agent 0: Total reward: 1080.00, Average Loss: 18.7057, LR: 0.000010
+Agent 1: Total reward: 1071.00, Average Loss: 14.1456, LR: 0.000010
+Agent 2: Total reward: 1133.00, Average Loss: 24.7346, LR: 0.000010
+Agent 3: Total reward: 988.60, Average Loss: 5.8800, LR: 0.000010
+---Episode 206---
+Agent 0: Total reward: 1041.00, Average Loss: 19.9468, LR: 0.000010
+Agent 1: Total reward: 1035.00, Average Loss: 12.7113, LR: 0.000010
+Agent 2: Total reward: 1165.00, Average Loss: 21.9295, LR: 0.000010
+Agent 3: Total reward: 1041.00, Average Loss: 7.0354, LR: 0.000010
+---Episode 207---
+Agent 0: Total reward: 644.50, Average Loss: 17.6803, LR: 0.000010
+Agent 1: Total reward: 1024.00, Average Loss: 14.9825, LR: 0.000010
+Agent 2: Total reward: 1160.00, Average Loss: 15.3702, LR: 0.000010
+Agent 3: Total reward: 992.20, Average Loss: 4.7058, LR: 0.000010
+---Episode 208---
+Agent 0: Total reward: 1119.15, Average Loss: 16.2562, LR: 0.000010
+Agent 1: Total reward: 1023.00, Average Loss: 12.9341, LR: 0.000010
+Agent 2: Total reward: 1167.00, Average Loss: 28.1942, LR: 0.000010
+Agent 3: Total reward: 1042.30, Average Loss: 5.4484, LR: 0.000010
+---Episode 209---
+Agent 0: Total reward: 1108.00, Average Loss: 16.6328, LR: 0.000010
+Agent 1: Total reward: 1087.00, Average Loss: 12.9862, LR: 0.000010
+Agent 2: Total reward: 1157.00, Average Loss: 18.5421, LR: 0.000010
+Agent 3: Total reward: 1081.00, Average Loss: 7.6735, LR: 0.000010
+---Episode 210---
+Agent 0: Total reward: 1055.00, Average Loss: 19.5628, LR: 0.000010
+Agent 1: Total reward: 1039.00, Average Loss: 12.1303, LR: 0.000010
+Agent 2: Total reward: 1157.00, Average Loss: 27.4771, LR: 0.000010
+Agent 3: Total reward: 1025.00, Average Loss: 5.4226, LR: 0.000010
+---Episode 211---
+Agent 0: Total reward: 1098.00, Average Loss: 14.0368, LR: 0.000010
+Agent 1: Total reward: 1042.00, Average Loss: 13.0077, LR: 0.000010
+Agent 2: Total reward: 1168.00, Average Loss: 20.0371, LR: 0.000010
+Agent 3: Total reward: 985.35, Average Loss: 5.6389, LR: 0.000010
+---Episode 212---
+Agent 0: Total reward: 1068.00, Average Loss: 16.0193, LR: 0.000010
+Agent 1: Total reward: 1044.00, Average Loss: 14.2342, LR: 0.000010
+Agent 2: Total reward: 1164.00, Average Loss: 25.4300, LR: 0.000010
+Agent 3: Total reward: 1066.00, Average Loss: 5.8805, LR: 0.000010
+---Episode 213---
+Agent 0: Total reward: 1132.00, Average Loss: 17.8017, LR: 0.000010
+Agent 1: Total reward: 1032.00, Average Loss: 10.8566, LR: 0.000010
+Agent 2: Total reward: 1144.00, Average Loss: 20.0708, LR: 0.000010
+Agent 3: Total reward: 975.20, Average Loss: 6.1506, LR: 0.000010
+---Episode 214---
+Agent 0: Total reward: 1128.00, Average Loss: 17.8884, LR: 0.000010
+Agent 1: Total reward: 1043.00, Average Loss: 14.3786, LR: 0.000010
+Agent 2: Total reward: 1147.00, Average Loss: 20.3313, LR: 0.000010
+Agent 3: Total reward: 718.00, Average Loss: 6.3911, LR: 0.000010
+---Episode 215---
+Agent 0: Total reward: 1105.00, Average Loss: 16.7654, LR: 0.000010
+Agent 1: Total reward: 1067.00, Average Loss: 13.9593, LR: 0.000010
+Agent 2: Total reward: 1138.00, Average Loss: 28.1924, LR: 0.000010
+Agent 3: Total reward: 1005.20, Average Loss: 5.7316, LR: 0.000010
+---Episode 216---
+Agent 0: Total reward: 1114.00, Average Loss: 16.9359, LR: 0.000010
+Agent 1: Total reward: 1079.00, Average Loss: 13.5515, LR: 0.000010
+Agent 2: Total reward: 1153.00, Average Loss: 26.4668, LR: 0.000010
+Agent 3: Total reward: 1020.00, Average Loss: 6.3820, LR: 0.000010
+---Episode 217---
+Agent 0: Total reward: 1092.00, Average Loss: 13.1385, LR: 0.000010
+Agent 1: Total reward: 1050.00, Average Loss: 11.6296, LR: 0.000010
+Agent 2: Total reward: 1154.00, Average Loss: 17.1783, LR: 0.000010
+Agent 3: Total reward: 972.65, Average Loss: 6.5697, LR: 0.000010
+---Episode 218---
+Agent 0: Total reward: 1013.00, Average Loss: 15.6304, LR: 0.000010
+Agent 1: Total reward: 1043.00, Average Loss: 14.1697, LR: 0.000010
+Agent 2: Total reward: 1159.00, Average Loss: 25.6122, LR: 0.000010
+Agent 3: Total reward: 1022.60, Average Loss: 6.1346, LR: 0.000010
+---Episode 219---
+Agent 0: Total reward: 1109.00, Average Loss: 17.6482, LR: 0.000010
+Agent 1: Total reward: 1007.00, Average Loss: 16.3326, LR: 0.000010
+Agent 2: Total reward: 1143.00, Average Loss: 22.0685, LR: 0.000010
+Agent 3: Total reward: 1013.15, Average Loss: 5.5546, LR: 0.000010
+---Episode 220---
+Agent 0: Total reward: 998.00, Average Loss: 15.8953, LR: 0.000010
+Agent 1: Total reward: 1063.00, Average Loss: 15.1462, LR: 0.000010
+Agent 2: Total reward: 1164.00, Average Loss: 26.3058, LR: 0.000010
+Agent 3: Total reward: 943.50, Average Loss: 6.1771, LR: 0.000010
+---Episode 221---
+Agent 0: Total reward: 1053.00, Average Loss: 15.8568, LR: 0.000010
+Agent 1: Total reward: 1033.00, Average Loss: 13.4998, LR: 0.000010
+Agent 2: Total reward: 1156.00, Average Loss: 24.3527, LR: 0.000010
+Agent 3: Total reward: 1069.00, Average Loss: 5.6116, LR: 0.000010
+---Episode 222---
+Agent 0: Total reward: 1135.00, Average Loss: 15.5111, LR: 0.000010
+Agent 1: Total reward: 1064.00, Average Loss: 13.0735, LR: 0.000010
+Agent 2: Total reward: 1119.00, Average Loss: 22.7995, LR: 0.000010
+Agent 3: Total reward: 880.45, Average Loss: 5.8172, LR: 0.000010
+---Episode 223---
+Agent 0: Total reward: 1113.00, Average Loss: 14.3157, LR: 0.000010
+Agent 1: Total reward: 1047.00, Average Loss: 12.1645, LR: 0.000010
+Agent 2: Total reward: 1164.00, Average Loss: 25.3580, LR: 0.000010
+Agent 3: Total reward: 1066.00, Average Loss: 5.3120, LR: 0.000010
+---Episode 224---
+Agent 0: Total reward: 1142.00, Average Loss: 16.6924, LR: 0.000010
+Agent 1: Total reward: 1105.00, Average Loss: 14.9693, LR: 0.000010
+Agent 2: Total reward: 1156.00, Average Loss: 24.9872, LR: 0.000010
+Agent 3: Total reward: 1085.00, Average Loss: 7.5945, LR: 0.000010
+---Episode 225---
+Agent 0: Total reward: 1124.00, Average Loss: 15.5374, LR: 0.000010
+Agent 1: Total reward: 1096.00, Average Loss: 15.0379, LR: 0.000010
+Agent 2: Total reward: 1168.00, Average Loss: 23.8508, LR: 0.000010
+Agent 3: Total reward: 1110.00, Average Loss: 4.9015, LR: 0.000010
+---Episode 226---
+Agent 0: Total reward: 1163.00, Average Loss: 15.9740, LR: 0.000010
+Agent 1: Total reward: 1111.00, Average Loss: 14.1353, LR: 0.000010
+Agent 2: Total reward: 1165.00, Average Loss: 22.9784, LR: 0.000010
+Agent 3: Total reward: 1046.00, Average Loss: 6.4002, LR: 0.000010
+---Episode 227---
+Agent 0: Total reward: 1163.00, Average Loss: 13.5170, LR: 0.000010
+Agent 1: Total reward: 1129.00, Average Loss: 17.4311, LR: 0.000010
+Agent 2: Total reward: 1165.00, Average Loss: 16.9264, LR: 0.000010
+Agent 3: Total reward: 1098.00, Average Loss: 5.2101, LR: 0.000010
+---Episode 228---
+Agent 0: Total reward: 1122.00, Average Loss: 15.6731, LR: 0.000010
+Agent 1: Total reward: 1120.00, Average Loss: 14.2058, LR: 0.000010
+Agent 2: Total reward: 1160.00, Average Loss: 26.0187, LR: 0.000010
+Agent 3: Total reward: 1133.00, Average Loss: 5.9066, LR: 0.000010
+---Episode 229---
+Agent 0: Total reward: 1153.00, Average Loss: 14.5560, LR: 0.000010
+Agent 1: Total reward: 1113.00, Average Loss: 10.4158, LR: 0.000010
+Agent 2: Total reward: 1167.00, Average Loss: 20.3334, LR: 0.000010
+Agent 3: Total reward: 1103.00, Average Loss: 7.1528, LR: 0.000010
+---Episode 230---
+Agent 0: Total reward: 1157.00, Average Loss: 17.4828, LR: 0.000010
+Agent 1: Total reward: 1088.00, Average Loss: 12.8788, LR: 0.000010
+Agent 2: Total reward: 1152.00, Average Loss: 24.9253, LR: 0.000010
+Agent 3: Total reward: 1126.00, Average Loss: 6.0246, LR: 0.000010
+---Episode 231---
+Agent 0: Total reward: 1148.00, Average Loss: 14.4918, LR: 0.000010
+Agent 1: Total reward: 1055.00, Average Loss: 12.9105, LR: 0.000010
+Agent 2: Total reward: 1170.00, Average Loss: 23.2396, LR: 0.000010
+Agent 3: Total reward: 1118.00, Average Loss: 5.6376, LR: 0.000010
+---Episode 232---
+Agent 0: Total reward: 1136.00, Average Loss: 16.1053, LR: 0.000010
+Agent 1: Total reward: 1062.00, Average Loss: 10.7134, LR: 0.000010
+Agent 2: Total reward: 1170.00, Average Loss: 22.9931, LR: 0.000010
+Agent 3: Total reward: 1046.00, Average Loss: 6.6167, LR: 0.000010
+---Episode 233---
+Agent 0: Total reward: 1135.00, Average Loss: 17.8302, LR: 0.000010
+Agent 1: Total reward: 1015.30, Average Loss: 13.0543, LR: 0.000010
+Agent 2: Total reward: 1169.00, Average Loss: 20.9160, LR: 0.000010
+Agent 3: Total reward: 1018.90, Average Loss: 6.0310, LR: 0.000010
+---Episode 234---
+Agent 0: Total reward: 1137.00, Average Loss: 15.6095, LR: 0.000010
+Agent 1: Total reward: 1060.00, Average Loss: 12.9992, LR: 0.000010
+Agent 2: Total reward: 1155.00, Average Loss: 24.2995, LR: 0.000010
+Agent 3: Total reward: 1104.00, Average Loss: 6.0818, LR: 0.000010
+---Episode 235---
+Agent 0: Total reward: 1160.00, Average Loss: 18.7607, LR: 0.000010
+Agent 1: Total reward: 1081.00, Average Loss: 14.3459, LR: 0.000010
+Agent 2: Total reward: 1150.00, Average Loss: 27.9222, LR: 0.000010
+Agent 3: Total reward: 1103.00, Average Loss: 5.2562, LR: 0.000010
+---Episode 236---
+Agent 0: Total reward: 1151.00, Average Loss: 13.9091, LR: 0.000010
+Agent 1: Total reward: 1109.00, Average Loss: 14.6394, LR: 0.000010
+Agent 2: Total reward: 1170.00, Average Loss: 21.9273, LR: 0.000010
+Agent 3: Total reward: 1114.00, Average Loss: 5.9064, LR: 0.000010
+---Episode 237---
+Agent 0: Total reward: 1137.00, Average Loss: 17.5060, LR: 0.000010
+Agent 1: Total reward: 1087.00, Average Loss: 12.5751, LR: 0.000010
+Agent 2: Total reward: 1161.00, Average Loss: 22.1286, LR: 0.000010
+Agent 3: Total reward: 1121.00, Average Loss: 6.9934, LR: 0.000010
+---Episode 238---
+Agent 0: Total reward: 1154.00, Average Loss: 15.8216, LR: 0.000010
+Agent 1: Total reward: 1046.00, Average Loss: 10.9110, LR: 0.000010
+Agent 2: Total reward: 1139.00, Average Loss: 18.3324, LR: 0.000010
+Agent 3: Total reward: 1125.00, Average Loss: 6.0629, LR: 0.000010
+---Episode 239---
+Agent 0: Total reward: 1148.00, Average Loss: 15.7613, LR: 0.000010
+Agent 1: Total reward: 1076.00, Average Loss: 13.0439, LR: 0.000010
+Agent 2: Total reward: 1162.00, Average Loss: 21.2591, LR: 0.000010
+Agent 3: Total reward: 1068.00, Average Loss: 5.5509, LR: 0.000010
+---Episode 240---
+Agent 0: Total reward: 1146.00, Average Loss: 12.5864, LR: 0.000010
+Agent 1: Total reward: 1082.00, Average Loss: 13.4335, LR: 0.000010
+Agent 2: Total reward: 1165.00, Average Loss: 20.3674, LR: 0.000010
+Agent 3: Total reward: 1067.00, Average Loss: 5.0505, LR: 0.000010
+---Episode 241---
+Agent 0: Total reward: 1140.00, Average Loss: 14.3576, LR: 0.000010
+Agent 1: Total reward: 1103.00, Average Loss: 12.8232, LR: 0.000010
+Agent 2: Total reward: 1134.00, Average Loss: 24.4074, LR: 0.000010
+Agent 3: Total reward: 1112.00, Average Loss: 6.5437, LR: 0.000010
+---Episode 242---
+Agent 0: Total reward: 1156.00, Average Loss: 17.2378, LR: 0.000010
+Agent 1: Total reward: 1084.00, Average Loss: 12.8831, LR: 0.000010
+Agent 2: Total reward: 1168.00, Average Loss: 24.8294, LR: 0.000010
+Agent 3: Total reward: 1084.00, Average Loss: 5.4964, LR: 0.000010
+---Episode 243---
+Agent 0: Total reward: 1139.00, Average Loss: 16.3669, LR: 0.000010
+Agent 1: Total reward: 1045.00, Average Loss: 11.2628, LR: 0.000010
+Agent 2: Total reward: 1159.00, Average Loss: 20.3652, LR: 0.000010
+Agent 3: Total reward: 1084.00, Average Loss: 5.4433, LR: 0.000010
+---Episode 244---
+Agent 0: Total reward: 1128.00, Average Loss: 15.2257, LR: 0.000010
+Agent 1: Total reward: 1042.00, Average Loss: 13.3548, LR: 0.000010
+Agent 2: Total reward: 1161.00, Average Loss: 25.7572, LR: 0.000010
+Agent 3: Total reward: 864.30, Average Loss: 5.4629, LR: 0.000010
+---Episode 245---
+Agent 0: Total reward: 1119.00, Average Loss: 15.9957, LR: 0.000010
+Agent 1: Total reward: 1101.00, Average Loss: 12.6391, LR: 0.000010
+Agent 2: Total reward: 1165.00, Average Loss: 19.4524, LR: 0.000010
+Agent 3: Total reward: 545.10, Average Loss: 6.2571, LR: 0.000010
+---Episode 246---
+Agent 0: Total reward: 1087.00, Average Loss: 15.6643, LR: 0.000010
+Agent 1: Total reward: 1031.00, Average Loss: 13.2259, LR: 0.000010
+Agent 2: Total reward: 1154.00, Average Loss: 21.6458, LR: 0.000010
+Agent 3: Total reward: 1051.00, Average Loss: 6.4829, LR: 0.000010
+---Episode 247---
+Agent 0: Total reward: 1158.00, Average Loss: 15.2634, LR: 0.000010
+Agent 1: Total reward: 1043.00, Average Loss: 12.7178, LR: 0.000010
+Agent 2: Total reward: 1161.00, Average Loss: 24.2822, LR: 0.000010
+Agent 3: Total reward: 933.40, Average Loss: 5.5147, LR: 0.000010
+---Episode 248---
+Agent 0: Total reward: 1115.00, Average Loss: 17.0669, LR: 0.000010
+Agent 1: Total reward: 1048.00, Average Loss: 11.5335, LR: 0.000010
+Agent 2: Total reward: 1129.00, Average Loss: 18.5963, LR: 0.000010
+Agent 3: Total reward: 1058.00, Average Loss: 5.8780, LR: 0.000010
+---Episode 249---
+Agent 0: Total reward: 1128.00, Average Loss: 12.6607, LR: 0.000010
+Agent 1: Total reward: 1054.00, Average Loss: 15.0393, LR: 0.000010
+Agent 2: Total reward: 983.30, Average Loss: 18.6289, LR: 0.000010
+Agent 3: Total reward: 955.65, Average Loss: 5.0039, LR: 0.000010
+---Episode 250---
+Agent 0: Total reward: 1139.00, Average Loss: 13.6042, LR: 0.000010
+Agent 1: Total reward: 1085.00, Average Loss: 13.1454, LR: 0.000010
+Agent 2: Total reward: 1119.60, Average Loss: 21.7965, LR: 0.000010
+Agent 3: Total reward: 645.10, Average Loss: 5.4371, LR: 0.000010
+---Episode 251---
+Agent 0: Total reward: 1164.00, Average Loss: 15.0806, LR: 0.000010
+Agent 1: Total reward: 1003.00, Average Loss: 10.1374, LR: 0.000010
+Agent 2: Total reward: 1145.00, Average Loss: 21.8786, LR: 0.000010
+Agent 3: Total reward: -400.00, Average Loss: 6.1708, LR: 0.000010
+---Episode 252---
+Agent 0: Total reward: 1122.00, Average Loss: 14.0289, LR: 0.000010
+Agent 1: Total reward: 1058.00, Average Loss: 10.6532, LR: 0.000010
+Agent 2: Total reward: 1091.00, Average Loss: 19.0902, LR: 0.000010
+Agent 3: Total reward: 426.20, Average Loss: 4.3937, LR: 0.000010
+---Episode 253---
+Agent 0: Total reward: 1079.00, Average Loss: 18.9854, LR: 0.000010
+Agent 1: Total reward: 1067.00, Average Loss: 9.7116, LR: 0.000010
+Agent 2: Total reward: 1086.00, Average Loss: 22.6265, LR: 0.000010
+Agent 3: Total reward: 1028.45, Average Loss: 4.6436, LR: 0.000010
+---Episode 254---
+Agent 0: Total reward: 1149.00, Average Loss: 16.7438, LR: 0.000010
+Agent 1: Total reward: 1030.00, Average Loss: 12.3426, LR: 0.000010
+Agent 2: Total reward: 1104.00, Average Loss: 23.3868, LR: 0.000010
+Agent 3: Total reward: 1091.00, Average Loss: 4.6138, LR: 0.000010
+---Episode 255---
+Agent 0: Total reward: 1146.00, Average Loss: 14.4491, LR: 0.000010
+Agent 1: Total reward: 1022.00, Average Loss: 16.6137, LR: 0.000010
+Agent 2: Total reward: 1055.00, Average Loss: 21.7245, LR: 0.000010
+Agent 3: Total reward: 1035.00, Average Loss: 5.6826, LR: 0.000010
+---Episode 256---
+Agent 0: Total reward: 1157.00, Average Loss: 16.1942, LR: 0.000010
+Agent 1: Total reward: 1023.00, Average Loss: 12.9096, LR: 0.000010
+Agent 2: Total reward: 1141.00, Average Loss: 21.9273, LR: 0.000010
+Agent 3: Total reward: 1039.00, Average Loss: 5.8212, LR: 0.000010
+---Episode 257---
+Agent 0: Total reward: 1097.00, Average Loss: 13.4317, LR: 0.000010
+Agent 1: Total reward: 1005.60, Average Loss: 12.7795, LR: 0.000010
+Agent 2: Total reward: 1167.00, Average Loss: 20.0395, LR: 0.000010
+Agent 3: Total reward: 1012.05, Average Loss: 5.3950, LR: 0.000010
+---Episode 258---
+Agent 0: Total reward: 1153.00, Average Loss: 16.0231, LR: 0.000010
+Agent 1: Total reward: 1068.00, Average Loss: 11.9404, LR: 0.000010
+Agent 2: Total reward: 1094.00, Average Loss: 20.4684, LR: 0.000010
+Agent 3: Total reward: 1068.00, Average Loss: 5.3826, LR: 0.000010
+---Episode 259---
+Agent 0: Total reward: 1151.00, Average Loss: 14.1647, LR: 0.000010
+Agent 1: Total reward: 1072.00, Average Loss: 13.3849, LR: 0.000010
+Agent 2: Total reward: 1170.00, Average Loss: 17.1348, LR: 0.000010
+Agent 3: Total reward: 1104.00, Average Loss: 6.0848, LR: 0.000010
+---Episode 260---
+Agent 0: Total reward: 1163.00, Average Loss: 12.7321, LR: 0.000010
+Agent 1: Total reward: 1057.00, Average Loss: 14.3898, LR: 0.000010
+Agent 2: Total reward: 979.60, Average Loss: 14.1690, LR: 0.000010
+Agent 3: Total reward: 1083.00, Average Loss: 5.9996, LR: 0.000010
+---Episode 261---
+Agent 0: Total reward: 1133.00, Average Loss: 16.9482, LR: 0.000010
+Agent 1: Total reward: 1113.00, Average Loss: 12.6828, LR: 0.000010
+Agent 2: Total reward: 1167.00, Average Loss: 18.2522, LR: 0.000010
+Agent 3: Total reward: 995.00, Average Loss: 4.5001, LR: 0.000010
+---Episode 262---
+Agent 0: Total reward: 1113.00, Average Loss: 12.7464, LR: 0.000010
+Agent 1: Total reward: 1037.00, Average Loss: 14.7082, LR: 0.000010
+Agent 2: Total reward: 1160.00, Average Loss: 13.7299, LR: 0.000010
+Agent 3: Total reward: 1054.90, Average Loss: 4.9546, LR: 0.000010
+---Episode 263---
+Agent 0: Total reward: 1155.00, Average Loss: 15.0693, LR: 0.000010
+Agent 1: Total reward: 1033.00, Average Loss: 12.1100, LR: 0.000010
+Agent 2: Total reward: 1170.00, Average Loss: 14.3947, LR: 0.000010
+Agent 3: Total reward: 1013.00, Average Loss: 4.4197, LR: 0.000010
+---Episode 264---
+Agent 0: Total reward: 1111.00, Average Loss: 15.7200, LR: 0.000010
+Agent 1: Total reward: 1052.00, Average Loss: 13.2389, LR: 0.000010
+Agent 2: Total reward: 1168.00, Average Loss: 15.1966, LR: 0.000010
+Agent 3: Total reward: 978.75, Average Loss: 4.9629, LR: 0.000010
+---Episode 265---
+Agent 0: Total reward: 1087.00, Average Loss: 12.5909, LR: 0.000010
+Agent 1: Total reward: 1078.00, Average Loss: 12.9572, LR: 0.000010
+Agent 2: Total reward: 1170.00, Average Loss: 13.3035, LR: 0.000010
+Agent 3: Total reward: 1105.00, Average Loss: 4.9222, LR: 0.000010
+---Episode 266---
+Agent 0: Total reward: 1029.00, Average Loss: 14.2008, LR: 0.000010
+Agent 1: Total reward: 1072.00, Average Loss: 15.4045, LR: 0.000010
+Agent 2: Total reward: 1155.00, Average Loss: 13.7295, LR: 0.000010
+Agent 3: Total reward: 1099.00, Average Loss: 4.3948, LR: 0.000010
+---Episode 267---
+Agent 0: Total reward: 1128.00, Average Loss: 17.0596, LR: 0.000010
+Agent 1: Total reward: 1085.00, Average Loss: 14.5997, LR: 0.000010
+Agent 2: Total reward: 1166.00, Average Loss: 13.1316, LR: 0.000010
+Agent 3: Total reward: 1055.00, Average Loss: 5.5714, LR: 0.000010
+---Episode 268---
+Agent 0: Total reward: 1065.00, Average Loss: 14.1209, LR: 0.000010
+Agent 1: Total reward: 1076.00, Average Loss: 12.8806, LR: 0.000010
+Agent 2: Total reward: 1159.00, Average Loss: 11.4409, LR: 0.000010
+Agent 3: Total reward: 1067.00, Average Loss: 5.5229, LR: 0.000010
+---Episode 269---
+Agent 0: Total reward: 1134.00, Average Loss: 13.5654, LR: 0.000010
+Agent 1: Total reward: 1069.00, Average Loss: 12.6107, LR: 0.000010
+Agent 2: Total reward: 1136.00, Average Loss: 12.0343, LR: 0.000010
+Agent 3: Total reward: 1069.00, Average Loss: 6.6058, LR: 0.000010
+---Episode 270---
+Agent 0: Total reward: 1150.00, Average Loss: 14.0515, LR: 0.000010
+Agent 1: Total reward: 1084.00, Average Loss: 13.4618, LR: 0.000010
+Agent 2: Total reward: 1164.00, Average Loss: 14.7191, LR: 0.000010
+Agent 3: Total reward: 1071.00, Average Loss: 5.2923, LR: 0.000010
+---Episode 271---
+Agent 0: Total reward: 1150.00, Average Loss: 12.8637, LR: 0.000010
+Agent 1: Total reward: 1090.00, Average Loss: 12.1862, LR: 0.000010
+Agent 2: Total reward: 1166.00, Average Loss: 13.9779, LR: 0.000010
+Agent 3: Total reward: 1108.00, Average Loss: 4.8895, LR: 0.000010
+---Episode 272---
+Agent 0: Total reward: 1126.00, Average Loss: 13.4233, LR: 0.000010
+Agent 1: Total reward: 1145.00, Average Loss: 10.3484, LR: 0.000010
+Agent 2: Total reward: 1167.00, Average Loss: 9.7473, LR: 0.000010
+Agent 3: Total reward: 1133.00, Average Loss: 4.6910, LR: 0.000010
+---Episode 273---
+Agent 0: Total reward: 1140.00, Average Loss: 14.7526, LR: 0.000010
+Agent 1: Total reward: 1139.00, Average Loss: 12.2725, LR: 0.000010
+Agent 2: Total reward: 1164.00, Average Loss: 11.5046, LR: 0.000010
+Agent 3: Total reward: 1096.00, Average Loss: 5.5362, LR: 0.000010
+---Episode 274---
+Agent 0: Total reward: 1155.00, Average Loss: 14.8804, LR: 0.000010
+Agent 1: Total reward: 1064.00, Average Loss: 12.3178, LR: 0.000010
+Agent 2: Total reward: 1164.00, Average Loss: 12.2811, LR: 0.000010
+Agent 3: Total reward: 1075.00, Average Loss: 4.0623, LR: 0.000010
+---Episode 275---
+Agent 0: Total reward: 1159.00, Average Loss: 12.4681, LR: 0.000010
+Agent 1: Total reward: 1008.00, Average Loss: 13.3770, LR: 0.000010
+Agent 2: Total reward: 1153.00, Average Loss: 12.5881, LR: 0.000010
+Agent 3: Total reward: 1131.00, Average Loss: 4.4112, LR: 0.000010
+---Episode 276---
+Agent 0: Total reward: 1128.00, Average Loss: 13.4846, LR: 0.000010
+Agent 1: Total reward: 1094.00, Average Loss: 12.6033, LR: 0.000010
+Agent 2: Total reward: 1167.00, Average Loss: 11.8501, LR: 0.000010
+Agent 3: Total reward: 1078.00, Average Loss: 5.3760, LR: 0.000010
+---Episode 277---
+Agent 0: Total reward: 1112.00, Average Loss: 18.8343, LR: 0.000010
+Agent 1: Total reward: 1096.00, Average Loss: 12.8896, LR: 0.000010
+Agent 2: Total reward: 1138.00, Average Loss: 9.5999, LR: 0.000010
+Agent 3: Total reward: 1069.00, Average Loss: 5.4380, LR: 0.000010
+---Episode 278---
+Agent 0: Total reward: 1134.00, Average Loss: 14.0032, LR: 0.000010
+Agent 1: Total reward: 1063.00, Average Loss: 11.9620, LR: 0.000010
+Agent 2: Total reward: 1163.00, Average Loss: 10.2812, LR: 0.000010
+Agent 3: Total reward: 1115.00, Average Loss: 4.8997, LR: 0.000010
+---Episode 279---
+Agent 0: Total reward: 1140.00, Average Loss: 15.9861, LR: 0.000010
+Agent 1: Total reward: 1090.00, Average Loss: 11.5598, LR: 0.000010
+Agent 2: Total reward: 1147.00, Average Loss: 9.9517, LR: 0.000010
+Agent 3: Total reward: 1107.00, Average Loss: 4.5765, LR: 0.000010
+---Episode 280---
+Agent 0: Total reward: 1143.00, Average Loss: 18.4996, LR: 0.000010
+Agent 1: Total reward: 1054.00, Average Loss: 12.0629, LR: 0.000010
+Agent 2: Total reward: 1159.00, Average Loss: 10.6731, LR: 0.000010
+Agent 3: Total reward: 1095.00, Average Loss: 5.7952, LR: 0.000010
+---Episode 281---
+Agent 0: Total reward: 1127.00, Average Loss: 15.4188, LR: 0.000010
+Agent 1: Total reward: 1009.00, Average Loss: 10.4315, LR: 0.000010
+Agent 2: Total reward: 1162.00, Average Loss: 11.6632, LR: 0.000010
+Agent 3: Total reward: 1094.00, Average Loss: 5.4521, LR: 0.000010
+---Episode 282---
+Agent 0: Total reward: 1141.00, Average Loss: 16.1295, LR: 0.000010
+Agent 1: Total reward: 1063.00, Average Loss: 10.8285, LR: 0.000010
+Agent 2: Total reward: 1166.00, Average Loss: 11.0177, LR: 0.000010
+Agent 3: Total reward: 1100.00, Average Loss: 5.6370, LR: 0.000010
+---Episode 283---
+Agent 0: Total reward: 1153.00, Average Loss: 17.0933, LR: 0.000010
+Agent 1: Total reward: 1085.00, Average Loss: 11.8496, LR: 0.000010
+Agent 2: Total reward: 1134.00, Average Loss: 10.5030, LR: 0.000010
+Agent 3: Total reward: 1120.00, Average Loss: 4.7438, LR: 0.000010
+---Episode 284---
+Agent 0: Total reward: 1093.00, Average Loss: 12.0014, LR: 0.000010
+Agent 1: Total reward: 1129.00, Average Loss: 12.7169, LR: 0.000010
+Agent 2: Total reward: 1155.00, Average Loss: 10.0412, LR: 0.000010
+Agent 3: Total reward: 1033.00, Average Loss: 5.1266, LR: 0.000010
+---Episode 285---
+Agent 0: Total reward: 1121.00, Average Loss: 13.1032, LR: 0.000010
+Agent 1: Total reward: 1110.00, Average Loss: 12.5248, LR: 0.000010
+Agent 2: Total reward: 1150.00, Average Loss: 11.2847, LR: 0.000010
+Agent 3: Total reward: 216.50, Average Loss: 4.5152, LR: 0.000010
+---Episode 286---
+Agent 0: Total reward: 1107.00, Average Loss: 15.5396, LR: 0.000010
+Agent 1: Total reward: 1107.00, Average Loss: 13.2753, LR: 0.000010
+Agent 2: Total reward: 1148.00, Average Loss: 11.5923, LR: 0.000010
+Agent 3: Total reward: -400.00, Average Loss: 5.7263, LR: 0.000010
+---Episode 287---
+Agent 0: Total reward: 1115.00, Average Loss: 14.3359, LR: 0.000010
+Agent 1: Total reward: 1036.00, Average Loss: 12.0863, LR: 0.000010
+Agent 2: Total reward: 1147.00, Average Loss: 9.6733, LR: 0.000010
+Agent 3: Total reward: -400.00, Average Loss: 5.8454, LR: 0.000010
+---Episode 288---
+Agent 0: Total reward: 992.00, Average Loss: 13.8266, LR: 0.000010
+Agent 1: Total reward: 1046.00, Average Loss: 12.1659, LR: 0.000010
+Agent 2: Total reward: 1156.00, Average Loss: 7.1820, LR: 0.000010
+Agent 3: Total reward: 161.75, Average Loss: 4.3578, LR: 0.000010
+---Episode 289---
+Agent 0: Total reward: 1038.00, Average Loss: 15.5227, LR: 0.000010
+Agent 1: Total reward: 1016.00, Average Loss: 12.7177, LR: 0.000010
+Agent 2: Total reward: 1128.00, Average Loss: 9.7283, LR: 0.000010
+Agent 3: Total reward: 990.90, Average Loss: 5.4694, LR: 0.000010
+---Episode 290---
+Agent 0: Total reward: 934.85, Average Loss: 12.7623, LR: 0.000010
+Agent 1: Total reward: 1038.00, Average Loss: 11.9952, LR: 0.000010
+Agent 2: Total reward: 1107.00, Average Loss: 7.7553, LR: 0.000010
+Agent 3: Total reward: 1039.05, Average Loss: 4.9212, LR: 0.000010
+---Episode 291---
+Agent 0: Total reward: 1074.00, Average Loss: 13.4865, LR: 0.000010
+Agent 1: Total reward: 1084.00, Average Loss: 12.7905, LR: 0.000010
+Agent 2: Total reward: 1141.00, Average Loss: 10.9955, LR: 0.000010
+Agent 3: Total reward: 1027.00, Average Loss: 5.8554, LR: 0.000010
+---Episode 292---
+Agent 0: Total reward: 1053.00, Average Loss: 12.2828, LR: 0.000010
+Agent 1: Total reward: 1103.00, Average Loss: 13.7880, LR: 0.000010
+Agent 2: Total reward: 1151.00, Average Loss: 10.0454, LR: 0.000010
+Agent 3: Total reward: 1085.00, Average Loss: 5.1582, LR: 0.000010
+---Episode 293---
+Agent 0: Total reward: 1058.00, Average Loss: 10.3103, LR: 0.000010
+Agent 1: Total reward: 983.00, Average Loss: 12.2670, LR: 0.000010
+Agent 2: Total reward: 1144.00, Average Loss: 10.5218, LR: 0.000010
+Agent 3: Total reward: 1002.05, Average Loss: 5.5713, LR: 0.000010
+---Episode 294---
+Agent 0: Total reward: 1123.00, Average Loss: 11.9007, LR: 0.000010
+Agent 1: Total reward: 1028.00, Average Loss: 9.2532, LR: 0.000010
+Agent 2: Total reward: 1128.00, Average Loss: 9.5236, LR: 0.000010
+Agent 3: Total reward: 1086.00, Average Loss: 5.1357, LR: 0.000010
+---Episode 295---
+Agent 0: Total reward: 1071.00, Average Loss: 12.4800, LR: 0.000010
+Agent 1: Total reward: 1126.00, Average Loss: 10.8267, LR: 0.000010
+Agent 2: Total reward: 727.60, Average Loss: 9.8532, LR: 0.000010
+Agent 3: Total reward: 1054.00, Average Loss: 5.7514, LR: 0.000010
+---Episode 296---
+Agent 0: Total reward: 987.00, Average Loss: 14.5111, LR: 0.000010
+Agent 1: Total reward: 1110.00, Average Loss: 10.7076, LR: 0.000010
+Agent 2: Total reward: 178.00, Average Loss: 10.6951, LR: 0.000010
+Agent 3: Total reward: 1067.00, Average Loss: 4.1911, LR: 0.000010
+---Episode 297---
+Agent 0: Total reward: 899.00, Average Loss: 11.9797, LR: 0.000010
+Agent 1: Total reward: 1052.00, Average Loss: 11.1686, LR: 0.000010
+Agent 2: Total reward: 1158.00, Average Loss: 8.1096, LR: 0.000010
+Agent 3: Total reward: 710.85, Average Loss: 5.2272, LR: 0.000010
+---Episode 298---
+Agent 0: Total reward: 1099.00, Average Loss: 12.5006, LR: 0.000010
+Agent 1: Total reward: 1070.00, Average Loss: 10.4369, LR: 0.000010
+Agent 2: Total reward: 1147.00, Average Loss: 11.8676, LR: 0.000010
+Agent 3: Total reward: 790.55, Average Loss: 5.2788, LR: 0.000010
+---Episode 299---
+Agent 0: Total reward: 1118.00, Average Loss: 11.9293, LR: 0.000010
+Agent 1: Total reward: 1099.00, Average Loss: 11.6002, LR: 0.000010
+Agent 2: Total reward: 1169.00, Average Loss: 11.3262, LR: 0.000010
+Agent 3: Total reward: 1081.00, Average Loss: 5.2767, LR: 0.000010
+---Episode 300---
+Agent 0: Total reward: 1091.00, Average Loss: 14.9112, LR: 0.000010
+Agent 1: Total reward: 1109.00, Average Loss: 10.4151, LR: 0.000010
+Agent 2: Total reward: 1170.00, Average Loss: 9.3615, LR: 0.000010
+Agent 3: Total reward: 1045.00, Average Loss: 3.9092, LR: 0.000010
+Model at episode 300 saved successfully
+---Episode 301---
+Agent 0: Total reward: 1133.00, Average Loss: 13.6835, LR: 0.000010
+Agent 1: Total reward: 1079.00, Average Loss: 12.6150, LR: 0.000010
+Agent 2: Total reward: 1170.00, Average Loss: 8.8425, LR: 0.000010
+Agent 3: Total reward: 1063.00, Average Loss: 4.4866, LR: 0.000010
+---Episode 302---
+Agent 0: Total reward: 1058.00, Average Loss: 11.7461, LR: 0.000010
+Agent 1: Total reward: 1116.00, Average Loss: 12.3596, LR: 0.000010
+Agent 2: Total reward: 1162.00, Average Loss: 9.4256, LR: 0.000010
+Agent 3: Total reward: 1104.00, Average Loss: 4.0429, LR: 0.000010
+---Episode 303---
+Agent 0: Total reward: 1147.00, Average Loss: 14.7106, LR: 0.000010
+Agent 1: Total reward: 1083.00, Average Loss: 12.8112, LR: 0.000010
+Agent 2: Total reward: 1180.00, Average Loss: 8.7131, LR: 0.000010
+Agent 3: Total reward: 1096.00, Average Loss: 4.6817, LR: 0.000010
+---Episode 304---
+Agent 0: Total reward: 1077.00, Average Loss: 11.4101, LR: 0.000010
+Agent 1: Total reward: 1013.00, Average Loss: 9.2459, LR: 0.000010
+Agent 2: Total reward: 1159.00, Average Loss: 9.0606, LR: 0.000010
+Agent 3: Total reward: 1079.00, Average Loss: 5.2554, LR: 0.000010
+---Episode 305---
+Agent 0: Total reward: 1081.00, Average Loss: 12.4251, LR: 0.000010
+Agent 1: Total reward: 1095.00, Average Loss: 11.2734, LR: 0.000010
+Agent 2: Total reward: 1170.00, Average Loss: 9.7440, LR: 0.000010
+Agent 3: Total reward: 1096.00, Average Loss: 5.1127, LR: 0.000010
+---Episode 306---
+Agent 0: Total reward: 1105.00, Average Loss: 9.1982, LR: 0.000010
+Agent 1: Total reward: 992.00, Average Loss: 10.8777, LR: 0.000010
+Agent 2: Total reward: 1169.00, Average Loss: 9.6897, LR: 0.000010
+Agent 3: Total reward: 1039.00, Average Loss: 4.7720, LR: 0.000010
+---Episode 307---
+Agent 0: Total reward: 1079.00, Average Loss: 12.4317, LR: 0.000010
+Agent 1: Total reward: 1005.90, Average Loss: 14.2254, LR: 0.000010
+Agent 2: Total reward: 1160.00, Average Loss: 8.2262, LR: 0.000010
+Agent 3: Total reward: 1034.00, Average Loss: 4.7797, LR: 0.000010
+---Episode 308---
+Agent 0: Total reward: 1057.00, Average Loss: 14.9301, LR: 0.000010
+Agent 1: Total reward: 1025.00, Average Loss: 9.2100, LR: 0.000010
+Agent 2: Total reward: 1121.90, Average Loss: 8.8934, LR: 0.000010
+Agent 3: Total reward: 1122.00, Average Loss: 3.8964, LR: 0.000010
+---Episode 309---
+Agent 0: Total reward: 1108.00, Average Loss: 16.0119, LR: 0.000010
+Agent 1: Total reward: 1077.00, Average Loss: 9.3061, LR: 0.000010
+Agent 2: Total reward: 1175.00, Average Loss: 9.3898, LR: 0.000010
+Agent 3: Total reward: 1009.00, Average Loss: 3.8273, LR: 0.000010
+---Episode 310---
+Agent 0: Total reward: 1067.00, Average Loss: 13.5759, LR: 0.000010
+Agent 1: Total reward: 1093.00, Average Loss: 11.0022, LR: 0.000010
+Agent 2: Total reward: 1161.00, Average Loss: 8.1607, LR: 0.000010
+Agent 3: Total reward: 1010.05, Average Loss: 5.0709, LR: 0.000010
+---Episode 311---
+Agent 0: Total reward: 1106.00, Average Loss: 11.0493, LR: 0.000010
+Agent 1: Total reward: 1109.00, Average Loss: 10.7639, LR: 0.000010
+Agent 2: Total reward: 1119.60, Average Loss: 8.7168, LR: 0.000010
+Agent 3: Total reward: 1069.00, Average Loss: 4.5525, LR: 0.000010
+---Episode 312---
+Agent 0: Total reward: 1088.00, Average Loss: 17.8899, LR: 0.000010
+Agent 1: Total reward: 1043.00, Average Loss: 10.9219, LR: 0.000010
+Agent 2: Total reward: 1170.00, Average Loss: 9.1872, LR: 0.000010
+Agent 3: Total reward: 1057.00, Average Loss: 3.9341, LR: 0.000010
+---Episode 313---
+Agent 0: Total reward: 1037.00, Average Loss: 11.9659, LR: 0.000010
+Agent 1: Total reward: 1029.00, Average Loss: 11.2299, LR: 0.000010
+Agent 2: Total reward: 1147.00, Average Loss: 7.6366, LR: 0.000010
+Agent 3: Total reward: 980.75, Average Loss: 4.6328, LR: 0.000010
+---Episode 314---
+Agent 0: Total reward: 1053.00, Average Loss: 15.7037, LR: 0.000010
+Agent 1: Total reward: 925.35, Average Loss: 8.5804, LR: 0.000010
+Agent 2: Total reward: 1167.00, Average Loss: 8.3838, LR: 0.000010
+Agent 3: Total reward: 970.80, Average Loss: 4.9698, LR: 0.000010
+---Episode 315---
+Agent 0: Total reward: 1073.00, Average Loss: 12.1767, LR: 0.000010
+Agent 1: Total reward: 1110.00, Average Loss: 12.4498, LR: 0.000010
+Agent 2: Total reward: 1132.60, Average Loss: 11.1307, LR: 0.000010
+Agent 3: Total reward: 1097.00, Average Loss: 4.7244, LR: 0.000010
+---Episode 316---
+Agent 0: Total reward: 1102.00, Average Loss: 11.0352, LR: 0.000010
+Agent 1: Total reward: 1097.00, Average Loss: 10.2833, LR: 0.000010
+Agent 2: Total reward: 1165.00, Average Loss: 7.5957, LR: 0.000010
+Agent 3: Total reward: 1054.00, Average Loss: 5.0858, LR: 0.000010
+---Episode 317---
+Agent 0: Total reward: 1119.00, Average Loss: 9.6279, LR: 0.000010
+Agent 1: Total reward: 980.00, Average Loss: 10.9377, LR: 0.000010
+Agent 2: Total reward: 1164.00, Average Loss: 10.4174, LR: 0.000010
+Agent 3: Total reward: 1115.00, Average Loss: 4.8934, LR: 0.000010
+---Episode 318---
+Agent 0: Total reward: 1065.00, Average Loss: 13.7344, LR: 0.000010
+Agent 1: Total reward: 1044.20, Average Loss: 10.0001, LR: 0.000010
+Agent 2: Total reward: 1188.00, Average Loss: 10.0327, LR: 0.000010
+Best model updated, new reward 1188.0000000000002
+Agent 3: Total reward: 1056.00, Average Loss: 4.2037, LR: 0.000010
+---Episode 319---
+Agent 0: Total reward: 1100.00, Average Loss: 12.5232, LR: 0.000010
+Agent 1: Total reward: 984.00, Average Loss: 11.3065, LR: 0.000010
+Agent 2: Total reward: 1169.00, Average Loss: 9.3982, LR: 0.000010
+Agent 3: Total reward: 942.50, Average Loss: 4.5940, LR: 0.000010
+---Episode 320---
+Agent 0: Total reward: 1103.00, Average Loss: 12.4182, LR: 0.000010
+Agent 1: Total reward: 1057.05, Average Loss: 9.7775, LR: 0.000010
+Agent 2: Total reward: 1159.00, Average Loss: 8.7672, LR: 0.000010
+Agent 3: Total reward: 1120.00, Average Loss: 4.2770, LR: 0.000010
+---Episode 321---
+Agent 0: Total reward: 1140.00, Average Loss: 12.4942, LR: 0.000010
+Agent 1: Total reward: 1002.00, Average Loss: 10.8517, LR: 0.000010
+Agent 2: Total reward: 1161.00, Average Loss: 7.9916, LR: 0.000010
+Agent 3: Total reward: 899.80, Average Loss: 4.2448, LR: 0.000010
+---Episode 322---
+Agent 0: Total reward: 1088.00, Average Loss: 11.9146, LR: 0.000010
+Agent 1: Total reward: 1116.00, Average Loss: 12.7155, LR: 0.000010
+Agent 2: Total reward: 1160.00, Average Loss: 7.8429, LR: 0.000010
+Agent 3: Total reward: 958.40, Average Loss: 5.0983, LR: 0.000010
+---Episode 323---
+Agent 0: Total reward: 1067.00, Average Loss: 11.7237, LR: 0.000010
+Agent 1: Total reward: 1129.00, Average Loss: 11.3597, LR: 0.000010
+Agent 2: Total reward: 1161.00, Average Loss: 9.3271, LR: 0.000010
+Agent 3: Total reward: 1052.00, Average Loss: 4.9607, LR: 0.000010
+---Episode 324---
+Agent 0: Total reward: 1077.00, Average Loss: 14.1107, LR: 0.000010
+Agent 1: Total reward: 1117.00, Average Loss: 9.9199, LR: 0.000010
+Agent 2: Total reward: 1160.00, Average Loss: 11.3724, LR: 0.000010
+Agent 3: Total reward: 957.65, Average Loss: 4.7005, LR: 0.000010
+---Episode 325---
+Agent 0: Total reward: 1077.00, Average Loss: 11.5000, LR: 0.000010
+Agent 1: Total reward: 1093.00, Average Loss: 11.1163, LR: 0.000010
+Agent 2: Total reward: 1146.00, Average Loss: 8.2575, LR: 0.000010
+Agent 3: Total reward: 1027.00, Average Loss: 3.9893, LR: 0.000010
+---Episode 326---
+Agent 0: Total reward: 1047.00, Average Loss: 13.0579, LR: 0.000010
+Agent 1: Total reward: 1075.00, Average Loss: 9.1199, LR: 0.000010
+Agent 2: Total reward: 1167.00, Average Loss: 9.8117, LR: 0.000010
+Agent 3: Total reward: 986.35, Average Loss: 4.7603, LR: 0.000010
+---Episode 327---
+Agent 0: Total reward: 1053.00, Average Loss: 11.4022, LR: 0.000010
+Agent 1: Total reward: 1054.00, Average Loss: 11.5441, LR: 0.000010
+Agent 2: Total reward: 1162.00, Average Loss: 8.5107, LR: 0.000010
+Agent 3: Total reward: 1015.45, Average Loss: 4.6670, LR: 0.000010
+---Episode 328---
+Agent 0: Total reward: 1004.00, Average Loss: 11.9033, LR: 0.000010
+Agent 1: Total reward: 1120.00, Average Loss: 10.4092, LR: 0.000010
+Agent 2: Total reward: 1179.00, Average Loss: 10.1019, LR: 0.000010
+Agent 3: Total reward: 1052.00, Average Loss: 5.2731, LR: 0.000010
+---Episode 329---
+Agent 0: Total reward: 919.85, Average Loss: 13.6371, LR: 0.000010
+Agent 1: Total reward: 1083.00, Average Loss: 9.1215, LR: 0.000010
+Agent 2: Total reward: 1063.95, Average Loss: 8.0060, LR: 0.000010
+Agent 3: Total reward: -84.90, Average Loss: 5.3020, LR: 0.000010
+---Episode 330---
+Agent 0: Total reward: 1132.00, Average Loss: 14.4909, LR: 0.000010
+Agent 1: Total reward: 1091.00, Average Loss: 12.6759, LR: 0.000010
+Agent 2: Total reward: 1162.15, Average Loss: 8.9790, LR: 0.000010
+Agent 3: Total reward: 874.60, Average Loss: 5.1354, LR: 0.000010
+---Episode 331---
+Agent 0: Total reward: 1143.00, Average Loss: 12.1292, LR: 0.000010
+Agent 1: Total reward: 1086.00, Average Loss: 10.6238, LR: 0.000010
+Agent 2: Total reward: 1177.00, Average Loss: 8.0646, LR: 0.000010
+Agent 3: Total reward: 736.75, Average Loss: 4.7811, LR: 0.000010
+---Episode 332---
+Agent 0: Total reward: 1119.00, Average Loss: 11.1894, LR: 0.000010
+Agent 1: Total reward: 1114.00, Average Loss: 11.3748, LR: 0.000010
+Agent 2: Total reward: 1161.00, Average Loss: 8.2350, LR: 0.000010
+Agent 3: Total reward: 1097.00, Average Loss: 6.3457, LR: 0.000010
+---Episode 333---
+Agent 0: Total reward: 1143.00, Average Loss: 9.7214, LR: 0.000010
+Agent 1: Total reward: 1032.00, Average Loss: 10.6705, LR: 0.000010
+Agent 2: Total reward: 1145.45, Average Loss: 9.1736, LR: 0.000010
+Agent 3: Total reward: 973.75, Average Loss: 4.2968, LR: 0.000010
+---Episode 334---
+Agent 0: Total reward: 1109.00, Average Loss: 11.8543, LR: 0.000010
+Agent 1: Total reward: 1118.00, Average Loss: 9.9515, LR: 0.000010
+Agent 2: Total reward: 1162.00, Average Loss: 9.6927, LR: 0.000010
+Agent 3: Total reward: 646.95, Average Loss: 4.3420, LR: 0.000010
+---Episode 335---
+Agent 0: Total reward: 1066.00, Average Loss: 11.9849, LR: 0.000010
+Agent 1: Total reward: 1064.00, Average Loss: 8.7913, LR: 0.000010
+Agent 2: Total reward: 1161.00, Average Loss: 7.6161, LR: 0.000010
+Agent 3: Total reward: 884.70, Average Loss: 3.8480, LR: 0.000010
+---Episode 336---
+Agent 0: Total reward: 1140.00, Average Loss: 13.4811, LR: 0.000010
+Agent 1: Total reward: 1109.00, Average Loss: 11.1783, LR: 0.000010
+Agent 2: Total reward: 1166.00, Average Loss: 7.1793, LR: 0.000010
+Agent 3: Total reward: 719.75, Average Loss: 4.3671, LR: 0.000010
+---Episode 337---
+Agent 0: Total reward: 1126.00, Average Loss: 10.8765, LR: 0.000010
+Agent 1: Total reward: 1114.00, Average Loss: 9.7080, LR: 0.000010
+Agent 2: Total reward: 1157.00, Average Loss: 9.0816, LR: 0.000010
+Agent 3: Total reward: 786.15, Average Loss: 5.0554, LR: 0.000010
+---Episode 338---
+Agent 0: Total reward: 1089.00, Average Loss: 12.1388, LR: 0.000010
+Agent 1: Total reward: 1058.00, Average Loss: 11.1919, LR: 0.000010
+Agent 2: Total reward: 1163.00, Average Loss: 9.9072, LR: 0.000010
+Agent 3: Total reward: 1059.00, Average Loss: 3.2765, LR: 0.000010
+---Episode 339---
+Agent 0: Total reward: 1075.00, Average Loss: 10.2745, LR: 0.000010
+Agent 1: Total reward: 1127.00, Average Loss: 9.6905, LR: 0.000010
+Agent 2: Total reward: 1167.00, Average Loss: 7.2962, LR: 0.000010
+Agent 3: Total reward: 907.00, Average Loss: 4.4037, LR: 0.000010
+---Episode 340---
+Agent 0: Total reward: 1020.00, Average Loss: 11.6546, LR: 0.000010
+Agent 1: Total reward: 1166.00, Average Loss: 10.0097, LR: 0.000010
+Agent 2: Total reward: 1119.75, Average Loss: 8.8650, LR: 0.000010
+Agent 3: Total reward: 1041.60, Average Loss: 4.6577, LR: 0.000010
+---Episode 341---
+Agent 0: Total reward: 1128.00, Average Loss: 10.1708, LR: 0.000010
+Agent 1: Total reward: 1165.00, Average Loss: 12.0281, LR: 0.000010
+Agent 2: Total reward: 1168.00, Average Loss: 8.1384, LR: 0.000010
+Agent 3: Total reward: 1062.00, Average Loss: 4.8325, LR: 0.000010
+---Episode 342---
+Agent 0: Total reward: 1157.00, Average Loss: 12.5209, LR: 0.000010
+Agent 1: Total reward: 1155.00, Average Loss: 10.4662, LR: 0.000010
+Agent 2: Total reward: 1145.45, Average Loss: 7.4136, LR: 0.000010
+Agent 3: Total reward: 1087.00, Average Loss: 3.9880, LR: 0.000010
+---Episode 343---
+Agent 0: Total reward: 1130.00, Average Loss: 11.5443, LR: 0.000010
+Agent 1: Total reward: 1145.00, Average Loss: 12.0153, LR: 0.000010
+Agent 2: Total reward: 1132.60, Average Loss: 8.0997, LR: 0.000010
+Agent 3: Total reward: 1028.00, Average Loss: 3.8414, LR: 0.000010
+---Episode 344---
+Agent 0: Total reward: 1128.00, Average Loss: 12.3825, LR: 0.000010
+Agent 1: Total reward: 1097.00, Average Loss: 11.9204, LR: 0.000010
+Agent 2: Total reward: 1165.00, Average Loss: 7.8187, LR: 0.000010
+Agent 3: Total reward: 1074.00, Average Loss: 3.6852, LR: 0.000010
+---Episode 345---
+Agent 0: Total reward: 1110.00, Average Loss: 13.5987, LR: 0.000010
+Agent 1: Total reward: 1062.00, Average Loss: 10.2575, LR: 0.000010
+Agent 2: Total reward: 1091.20, Average Loss: 7.8996, LR: 0.000010
+Agent 3: Total reward: 1065.00, Average Loss: 4.8956, LR: 0.000010
+---Episode 346---
+Agent 0: Total reward: 1121.00, Average Loss: 10.5439, LR: 0.000010
+Agent 1: Total reward: 1091.00, Average Loss: 8.7099, LR: 0.000010
+Agent 2: Total reward: 1154.30, Average Loss: 9.3489, LR: 0.000010
+Agent 3: Total reward: 1051.00, Average Loss: 5.0286, LR: 0.000010
+---Episode 347---
+Agent 0: Total reward: 1121.00, Average Loss: 10.8972, LR: 0.000010
+Agent 1: Total reward: 1067.00, Average Loss: 8.8770, LR: 0.000010
+Agent 2: Total reward: 1164.00, Average Loss: 10.0978, LR: 0.000010
+Agent 3: Total reward: 920.95, Average Loss: 4.4993, LR: 0.000010
+---Episode 348---
+Agent 0: Total reward: 1104.00, Average Loss: 11.9059, LR: 0.000010
+Agent 1: Total reward: 1064.00, Average Loss: 8.6828, LR: 0.000010
+Agent 2: Total reward: 1140.30, Average Loss: 6.9676, LR: 0.000010
+Agent 3: Total reward: 1050.35, Average Loss: 4.8038, LR: 0.000010
+---Episode 349---
+Agent 0: Total reward: 1118.00, Average Loss: 13.2762, LR: 0.000010
+Agent 1: Total reward: 1141.00, Average Loss: 12.6000, LR: 0.000010
+Agent 2: Total reward: 1163.00, Average Loss: 8.1703, LR: 0.000010
+Agent 3: Total reward: 1145.00, Average Loss: 4.4377, LR: 0.000010
+---Episode 350---
+Agent 0: Total reward: 1136.00, Average Loss: 11.1264, LR: 0.000010
+Agent 1: Total reward: 1076.00, Average Loss: 10.3506, LR: 0.000010
+Agent 2: Total reward: 1131.45, Average Loss: 9.4374, LR: 0.000010
+Agent 3: Total reward: 1054.00, Average Loss: 4.0624, LR: 0.000010
+---Episode 351---
+Agent 0: Total reward: 1093.00, Average Loss: 11.3298, LR: 0.000010
+Agent 1: Total reward: 1109.00, Average Loss: 9.7459, LR: 0.000010
+Agent 2: Total reward: 1168.00, Average Loss: 7.4766, LR: 0.000010
+Agent 3: Total reward: 1054.00, Average Loss: 4.5655, LR: 0.000010
+---Episode 352---
+Agent 0: Total reward: 1065.00, Average Loss: 10.0785, LR: 0.000010
+Agent 1: Total reward: 1123.00, Average Loss: 8.1853, LR: 0.000010
+Agent 2: Total reward: 1164.00, Average Loss: 9.2673, LR: 0.000010
+Agent 3: Total reward: 1085.00, Average Loss: 4.5570, LR: 0.000010
+---Episode 353---
+Agent 0: Total reward: 1116.00, Average Loss: 10.9963, LR: 0.000010
+Agent 1: Total reward: 915.20, Average Loss: 10.4595, LR: 0.000010
+Agent 2: Total reward: 1133.60, Average Loss: 7.0503, LR: 0.000010
+Agent 3: Total reward: 1140.00, Average Loss: 4.4023, LR: 0.000010
+---Episode 354---
+Agent 0: Total reward: 1135.00, Average Loss: 12.5531, LR: 0.000010
+Agent 1: Total reward: 877.50, Average Loss: 11.3043, LR: 0.000010
+Agent 2: Total reward: 1025.70, Average Loss: 9.0127, LR: 0.000010
+Agent 3: Total reward: 1128.00, Average Loss: 4.7148, LR: 0.000010
+---Episode 355---
+Agent 0: Total reward: 1081.00, Average Loss: 10.3994, LR: 0.000010
+Agent 1: Total reward: 1007.00, Average Loss: 10.0146, LR: 0.000010
+Agent 2: Total reward: 1159.00, Average Loss: 7.5129, LR: 0.000010
+Agent 3: Total reward: 1088.00, Average Loss: 4.0410, LR: 0.000010
+---Episode 356---
+Agent 0: Total reward: 1071.00, Average Loss: 12.5677, LR: 0.000010
+Agent 1: Total reward: 1078.00, Average Loss: 8.6313, LR: 0.000010
+Agent 2: Total reward: 1107.20, Average Loss: 7.8877, LR: 0.000010
+Agent 3: Total reward: 968.45, Average Loss: 3.7360, LR: 0.000010
+---Episode 357---
+Agent 0: Total reward: 1135.00, Average Loss: 11.6642, LR: 0.000010
+Agent 1: Total reward: 1099.00, Average Loss: 8.9486, LR: 0.000010
+Agent 2: Total reward: 1123.60, Average Loss: 8.8094, LR: 0.000010
+Agent 3: Total reward: 1123.00, Average Loss: 4.2659, LR: 0.000010
+---Episode 358---
+Agent 0: Total reward: 1153.00, Average Loss: 9.6964, LR: 0.000010
+Agent 1: Total reward: 1101.00, Average Loss: 8.9572, LR: 0.000010
+Agent 2: Total reward: 1144.15, Average Loss: 8.3566, LR: 0.000010
+Agent 3: Total reward: 1111.00, Average Loss: 4.5591, LR: 0.000010
+---Episode 359---
+Agent 0: Total reward: 1155.00, Average Loss: 9.0910, LR: 0.000010
+Agent 1: Total reward: 1086.00, Average Loss: 9.1670, LR: 0.000010
+Agent 2: Total reward: 1167.00, Average Loss: 7.2315, LR: 0.000010
+Agent 3: Total reward: 986.60, Average Loss: 4.3437, LR: 0.000010
+---Episode 360---
+Agent 0: Total reward: 1117.00, Average Loss: 11.3567, LR: 0.000010
+Agent 1: Total reward: 1152.00, Average Loss: 10.4992, LR: 0.000010
+Agent 2: Total reward: 975.45, Average Loss: 7.6229, LR: 0.000010
+Agent 3: Total reward: 1081.00, Average Loss: 5.2857, LR: 0.000010
+---Episode 361---
+Agent 0: Total reward: 1122.00, Average Loss: 15.8895, LR: 0.000010
+Agent 1: Total reward: 998.00, Average Loss: 10.2960, LR: 0.000010
+Agent 2: Total reward: 1166.00, Average Loss: 8.5091, LR: 0.000010
+Agent 3: Total reward: 888.55, Average Loss: 3.8862, LR: 0.000010
+---Episode 362---
+Agent 0: Total reward: 1146.00, Average Loss: 10.8646, LR: 0.000010
+Agent 1: Total reward: 1067.00, Average Loss: 9.2738, LR: 0.000010
+Agent 2: Total reward: 1168.00, Average Loss: 8.0231, LR: 0.000010
+Agent 3: Total reward: 962.20, Average Loss: 4.5240, LR: 0.000010
+---Episode 363---
+Agent 0: Total reward: 1146.00, Average Loss: 13.3576, LR: 0.000010
+Agent 1: Total reward: 1074.00, Average Loss: 8.8141, LR: 0.000010
+Agent 2: Total reward: 1159.00, Average Loss: 6.9174, LR: 0.000010
+Agent 3: Total reward: 1104.00, Average Loss: 3.4761, LR: 0.000010
+---Episode 364---
+Agent 0: Total reward: 1131.00, Average Loss: 8.3190, LR: 0.000010
+Agent 1: Total reward: 996.00, Average Loss: 9.6621, LR: 0.000010
+Agent 2: Total reward: 1168.00, Average Loss: 9.1263, LR: 0.000010
+Agent 3: Total reward: 1019.60, Average Loss: 3.5670, LR: 0.000010
+---Episode 365---
+Agent 0: Total reward: 1062.00, Average Loss: 10.3729, LR: 0.000010
+Agent 1: Total reward: 1050.00, Average Loss: 11.6233, LR: 0.000010
+Agent 2: Total reward: 1170.00, Average Loss: 6.4083, LR: 0.000010
+Agent 3: Total reward: 375.20, Average Loss: 4.3033, LR: 0.000010
+---Episode 366---
+Agent 0: Total reward: 1032.00, Average Loss: 9.1096, LR: 0.000010
+Agent 1: Total reward: 1047.00, Average Loss: 9.7173, LR: 0.000010
+Agent 2: Total reward: 1153.00, Average Loss: 7.6506, LR: 0.000010
+Agent 3: Total reward: -336.35, Average Loss: 3.6045, LR: 0.000010
+---Episode 367---
+Agent 0: Total reward: 1000.35, Average Loss: 11.9944, LR: 0.000010
+Agent 1: Total reward: 1125.00, Average Loss: 9.9517, LR: 0.000010
+Agent 2: Total reward: 1097.35, Average Loss: 6.8048, LR: 0.000010
+Agent 3: Total reward: -400.00, Average Loss: 5.0348, LR: 0.000010
+---Episode 368---
+Agent 0: Total reward: 1131.00, Average Loss: 9.5405, LR: 0.000010
+Agent 1: Total reward: 1109.00, Average Loss: 8.9767, LR: 0.000010
+Agent 2: Total reward: 1054.10, Average Loss: 6.5735, LR: 0.000010
+Agent 3: Total reward: 613.85, Average Loss: 4.4398, LR: 0.000010
+---Episode 369---
+Agent 0: Total reward: 1095.00, Average Loss: 12.3105, LR: 0.000010
+Agent 1: Total reward: 1081.00, Average Loss: 9.2372, LR: 0.000010
+Agent 2: Total reward: 1115.90, Average Loss: 6.3230, LR: 0.000010
+Agent 3: Total reward: 1022.45, Average Loss: 4.7223, LR: 0.000010
+---Episode 370---
+Agent 0: Total reward: 1115.00, Average Loss: 9.7346, LR: 0.000010
+Agent 1: Total reward: 1130.00, Average Loss: 8.7694, LR: 0.000010
+Agent 2: Total reward: 1165.00, Average Loss: 6.8010, LR: 0.000010
+Agent 3: Total reward: 1102.00, Average Loss: 4.1486, LR: 0.000010
+---Episode 371---
+Agent 0: Total reward: 1154.00, Average Loss: 11.8539, LR: 0.000010
+Agent 1: Total reward: 1107.00, Average Loss: 9.6602, LR: 0.000010
+Agent 2: Total reward: 1155.00, Average Loss: 7.5889, LR: 0.000010
+Agent 3: Total reward: 1067.00, Average Loss: 4.0454, LR: 0.000010
+---Episode 372---
+Agent 0: Total reward: 1151.00, Average Loss: 9.5303, LR: 0.000010
+Agent 1: Total reward: 1020.00, Average Loss: 10.6263, LR: 0.000010
+Agent 2: Total reward: 1112.45, Average Loss: 6.4848, LR: 0.000010
+Agent 3: Total reward: 1067.00, Average Loss: 4.0934, LR: 0.000010
+---Episode 373---
+Agent 0: Total reward: 1121.00, Average Loss: 11.4459, LR: 0.000010
+Agent 1: Total reward: 1067.00, Average Loss: 10.6791, LR: 0.000010
+Agent 2: Total reward: 1155.15, Average Loss: 7.5276, LR: 0.000010
+Agent 3: Total reward: 1026.00, Average Loss: 3.8689, LR: 0.000010
+---Episode 374---
+Agent 0: Total reward: 1098.00, Average Loss: 11.0746, LR: 0.000010
+Agent 1: Total reward: 1112.00, Average Loss: 10.2258, LR: 0.000010
+Agent 2: Total reward: 1159.15, Average Loss: 6.9336, LR: 0.000010
+Agent 3: Total reward: 924.80, Average Loss: 3.6062, LR: 0.000010
+---Episode 375---
+Agent 0: Total reward: 1115.00, Average Loss: 10.4936, LR: 0.000010
+Agent 1: Total reward: 1116.00, Average Loss: 7.5828, LR: 0.000010
+Agent 2: Total reward: 1127.60, Average Loss: 7.9092, LR: 0.000010
+Agent 3: Total reward: 1110.00, Average Loss: 3.4813, LR: 0.000010
+---Episode 376---
+Agent 0: Total reward: 1080.00, Average Loss: 11.1111, LR: 0.000010
+Agent 1: Total reward: 1149.00, Average Loss: 9.0360, LR: 0.000010
+Agent 2: Total reward: 1141.30, Average Loss: 5.6318, LR: 0.000010
+Agent 3: Total reward: 1057.00, Average Loss: 4.0831, LR: 0.000010
+---Episode 377---
+Agent 0: Total reward: 1002.00, Average Loss: 9.9672, LR: 0.000010
+Agent 1: Total reward: 1119.00, Average Loss: 10.1768, LR: 0.000010
+Agent 2: Total reward: 1148.30, Average Loss: 7.3797, LR: 0.000010
+Agent 3: Total reward: 961.20, Average Loss: 4.1105, LR: 0.000010
+---Episode 378---
+Agent 0: Total reward: 1139.00, Average Loss: 9.5836, LR: 0.000010
+Agent 1: Total reward: 1090.00, Average Loss: 8.0404, LR: 0.000010
+Agent 2: Total reward: 1114.05, Average Loss: 7.2639, LR: 0.000010
+Agent 3: Total reward: 1139.00, Average Loss: 4.9650, LR: 0.000010
+---Episode 379---
+Agent 0: Total reward: 1074.00, Average Loss: 10.3428, LR: 0.000010
+Agent 1: Total reward: 1131.00, Average Loss: 8.9118, LR: 0.000010
+Agent 2: Total reward: 1149.30, Average Loss: 6.8778, LR: 0.000010
+Agent 3: Total reward: 1062.00, Average Loss: 3.4790, LR: 0.000010
+---Episode 380---
